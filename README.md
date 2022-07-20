@@ -1,4 +1,4 @@
-### Hi, I'm Anmol Baranwal 👋
+### Ciao, I'm Anmol Baranwal <img src="{https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif}" />
 
 > My name is Anmol Baranwal & I am a web developer with solid skills in User Interface design.
 > I 🎓 am completing my Bachelor of Technology in the field of computer science.
@@ -8,7 +8,7 @@
 - 📫 Feel free to contact me on <em> anmolbaranwal119@gmail.com </em>
 - ⚡ Fun fact: I ❤️ to explore different areas.
 
-<!--
+<!-- 👋
 **Anmol-Baranwal/Anmol-Baranwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
