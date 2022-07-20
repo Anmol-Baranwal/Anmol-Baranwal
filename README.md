@@ -1,5 +1,5 @@
 ### Ciao, I'm Anmol Baranwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="30" height="30" />
-<hr style="border:1px solid gray">
+<hr style="border:.5px solid gray">
 
  My name is Anmol Baranwal & I am a web developer with solid skills in User Interface design.
  I 🎓 am completing my Bachelor of Technology in the field of computer science.
