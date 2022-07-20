@@ -1,7 +1,8 @@
-### Ciao, I'm Anmol Baranwal <img src="{https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif}" />
+### Ciao, I'm Anmol Baranwal ![](https://tenor.com/view/hi-gif-23520343)
+---
 
-> My name is Anmol Baranwal & I am a web developer with solid skills in User Interface design.
-> I 🎓 am completing my Bachelor of Technology in the field of computer science.
+ My name is Anmol Baranwal & I am a web developer with solid skills in User Interface design.
+ I 🎓 am completing my Bachelor of Technology in the field of computer science.
 
 - 🔥 I'm currently exploring Front End Technologies.
 - 💬 You can find me on <img src="{https://www.linkedin.com/in/heyanmolbaranwal/}" />
@@ -10,6 +11,7 @@
 
 <!-- 👋
 **Anmol-Baranwal/Anmol-Baranwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="{https://tenor.com/view/hi-gif-23520343}" />
 
 Here are some ideas to get you started:
 
