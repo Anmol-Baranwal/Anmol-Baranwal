@@ -1,4 +1,4 @@
-### Ciao, I'm Anmol Baranwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" />
+### Ciao, I'm Anmol Baranwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="40" height="40" />
 ---
 
  My name is Anmol Baranwal & I am a web developer with solid skills in User Interface design.
