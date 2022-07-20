@@ -1,4 +1,4 @@
-### Ciao, I'm Anmol Baranwal ![](https://tenor.com/view/hi-gif-23520343)
+### Ciao, I'm Anmol Baranwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" />
 ---
 
  My name is Anmol Baranwal & I am a web developer with solid skills in User Interface design.
