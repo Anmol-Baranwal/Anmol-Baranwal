@@ -1,3 +1,5 @@
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+
 ### Ciao, I'm Anmol Baranwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="25" height="25" />
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
