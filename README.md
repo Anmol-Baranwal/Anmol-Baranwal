@@ -21,10 +21,11 @@
 
 <br><br>
 
+<!--
 | ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
 | --- | --- |
 
-<!-- 👋
+ 👋
  🌐 😀
 Themes: gruvbox, radical, tokyonight
 
