@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/Anmol-Baranwal">
-    <img src="https://user-images.githubusercontent.com/74038190/206681680-7a2db5f7-7f12-430c-88e7-66b3cd41f897.png" alt="Anmol Baranwal" title="Hi there"/></a>
+    <img src="https://user-images.githubusercontent.com/74038190/206688648-cf6a7268-47b1-4bf1-b6ce-84bf9fd97b38.png" alt="Anmol Baranwal" title="Hi there"/></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Anmol-Baranwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=F75C7E&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Learning+New+Things" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Learning+New+Things" /></a>
 </p>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
@@ -54,7 +54,7 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 | ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
 | --- | --- |
 <!--
-
+tokyonight vs radical
  👋
  🌐 😀
 Themes: gruvbox, radical, tokyonight
