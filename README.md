@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://github.com/Anmol-Baranwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Learning+New+Things" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
@@ -30,6 +30,7 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -60,11 +61,6 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 ![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
 
 ![h](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif)
-![line 1](https://user-images.githubusercontent.com/74038190/210105487-afacd5ab-8b99-41a8-9145-5ff88cbe42dd.gif)
-![line 2](https://user-images.githubusercontent.com/74038190/210105488-7be87cf9-b96d-4dc6-9b2b-ebc66cd02b65.gif)
-![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3834323734313930373732303839363531322f3834323830363331323338363432383934382f6769662e676966](https://user-images.githubusercontent.com/74038190/210105440-7ad0c174-7148-40de-98dd-a2e1fa0aab7e.gif)
-![move_xo](https://user-images.githubusercontent.com/74038190/210105476-9fbe9b67-d817-4604-a831-6b290e1def98.gif)
-
 
 
 <!--
