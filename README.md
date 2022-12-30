@@ -52,13 +52,20 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 
 <br><br>
 
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
-| --- | --- |
+![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight)  ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) 
+
+<hr>
+
+![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
+
+![h](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif)
+
 <!--
 tokyonight vs radical
- 👋
- 🌐 😀
+
 Themes: gruvbox, radical, tokyonight
+
+![move_xo](https://user-images.githubusercontent.com/74038190/210104928-49231b5f-0f46-49d9-b725-30b21af41bf3.gif)
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
@@ -67,7 +74,6 @@ https://tenor.com/view/hi-gif-23520343
 - 📫 Feel free to contact me on <em> anmolbaranwal119@gmail.com </em>
 <hr noshade="noshade" align="center" style="border-color: #CFCFCF; border-style: dashed; color: #CFCFCF; height: 1px; margin-top: -5px; text-align: center;">
 
-Here are some ideas to get you started:
-
-- 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 
+- 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 👋 🌐 😀 
 -->
+
