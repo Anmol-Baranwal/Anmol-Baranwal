@@ -52,13 +52,20 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 
 <br><br>
 
-![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight)  ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) 
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
+| -- | -- |
 
 <hr>
 
 ![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
 
 ![h](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif)
+![line 1](https://user-images.githubusercontent.com/74038190/210105487-afacd5ab-8b99-41a8-9145-5ff88cbe42dd.gif)
+![line 2](https://user-images.githubusercontent.com/74038190/210105488-7be87cf9-b96d-4dc6-9b2b-ebc66cd02b65.gif)
+![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3834323734313930373732303839363531322f3834323830363331323338363432383934382f6769662e676966](https://user-images.githubusercontent.com/74038190/210105440-7ad0c174-7148-40de-98dd-a2e1fa0aab7e.gif)
+![move_xo](https://user-images.githubusercontent.com/74038190/210105476-9fbe9b67-d817-4604-a831-6b290e1def98.gif)
+
+
 
 <!--
 tokyonight vs radical
