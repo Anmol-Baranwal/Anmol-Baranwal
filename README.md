@@ -54,7 +54,7 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 
 <br><br>
 
-| ![Anmol Baranwal github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
 | -- | -- |
 
 <hr>
