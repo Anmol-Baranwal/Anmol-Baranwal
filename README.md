@@ -13,8 +13,8 @@
 I enjoy learning new frameworks and libraries with algorithms that has the potential to solve real-world issues.<br>
 
 - 🎓 I'm completing my Bachelor of Technology in the field of computer science.
-- ✨ I'm a web developer with solid skills in User Interface design.
-- ⚡ Fun fact: I ❤️ coffee & tech stuff.
+- 🚀 I'm a web developer with solid skills in User Interface design.
+- 🧩 Fun fact: I ❤️ coffee & chess.
 
 <hr>
 <h1> Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
@@ -46,10 +46,11 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 <h1> Wanna Talk? Connect me Here <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> </h1>
 <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-<!-- <a href=""><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> -->
+<a href="mailto:advaithunni2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <hr>
 <h3>🤝 If you loved my work! Support me Here</h3>
 <a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" /></a>
 
 <br><br>
 
@@ -60,23 +61,22 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 
 ![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
 
-![h](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif)
-
+![line gif](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif)
 
 <!--
 tokyonight vs radical
 
 Themes: gruvbox, radical, tokyonight
 
-![move_xo](https://user-images.githubusercontent.com/74038190/210104928-49231b5f-0f46-49d9-b725-30b21af41bf3.gif)
-
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-https://tenor.com/view/hi-gif-23520343
-- 📫 Feel free to contact me on <em> anmolbaranwal119@gmail.com </em>
-<hr noshade="noshade" align="center" style="border-color: #CFCFCF; border-style: dashed; color: #CFCFCF; height: 1px; margin-top: -5px; text-align: center;">
+<details>
+  <summary>GitHub Trophies 🏆</summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anmol-Baranwal"/>
+  </p>
+</details>
 
-- 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 👋 🌐 😀 
+<img src="./assets/metrics.plugin.achievements.svg">
 -->
 
