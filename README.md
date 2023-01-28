@@ -8,13 +8,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
 
+<div align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+</div>
+<br>
 
 I enjoy learning new frameworks and libraries with algorithms that has the potential to solve real-world issues.<br>
 
 - 🎓 I'm completing my Bachelor of Technology in the field of computer science.
-- 🚀 I'm a web developer with solid skills in User Interface design.
-- 🧩 Fun fact: I ❤️ coffee & chess.
+- 🚀 I'm a web developer with solid experience in User Interface Design.
+- 🧩 Fun fact: I ❤️ playing chess & doing open-source contributions.
 
 <hr>
 <h1> Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
@@ -43,7 +46,12 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 
 </div>
 <hr>
-<h1> Wanna Talk? Connect me Here <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> </h1>
+
+  
+![Metrics](https://metrics.lecoq.io/Anmol-Baranwal?template=classic&lines=1&repositories=1&achievements=1&notable=1&gists=1&discussions=1&followup=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=false&repositories=false&repositories.featured=%20Awesome-Illustrations-4Projects&repositories.starred=2&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=false&discussions.categories.limit=5&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable=false&notable.filter=stars%3A%3E100&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&gists=false&config.timezone=Asia%2FCalcutta)
+<hr>
+  
+<h1> Let's Chat here <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> </h1>
 <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 <a href="mailto:advaithunni2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
