@@ -36,29 +36,23 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories_limit: 5
           plugin_followup: yes
+          plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_gists: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
+          plugin_languages_limit: 7
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          plugin_languages_threshold: 0
           plugin_notable: yes
-          plugin_notable_filter: stars:>100
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_repositories: yes
-          plugin_repositories_featured:  Awesome-Illustrations-4Projects
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_starred: 2
+          plugin_repositories_starred: 3
