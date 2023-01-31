@@ -39,7 +39,7 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -47,8 +47,10 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 </div>
 <hr>
 
-  
-![Metrics](https://metrics.lecoq.io/Anmol-Baranwal)
+<!-- https://metrics.lecoq.io/     -> go to this url to add your shared instance
+https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/shared.md    -->
+
+<img src="github-metrics.svg" />
 <hr>
   
 <h1> Let's Chat here <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> </h1>
