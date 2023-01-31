@@ -50,7 +50,8 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 <!-- https://metrics.lecoq.io/     -> go to this url to add your shared instance
 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/shared.md    -->
 
-<img src="github-metrics.svg" />
+![Metrics_AB](https://metrics.lecoq.io/Anmol-Baranwal)
+
 <hr>
   
 <h1> Let's Chat here <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> </h1>
