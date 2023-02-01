@@ -19,7 +19,8 @@ I enjoy learning new frameworks and libraries with algorithms that has the poten
 - 🚀 I'm a web developer with solid experience in User Interface Design.
 - 🧩 Fun fact: I ❤️ playing chess & doing open-source contributions.
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
 <h1> Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
 <div align="center">
 <!-- <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
@@ -58,8 +59,11 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 <a href="mailto:advaithunni2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anmol#7140" ></a>
 <hr>
-<h3>🤝 If you loved my work! Support me Here</h3>
+
+
+<h1> <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> If you loved my work! Support me Here !! </h1>
 <a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 <a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" /></a>
 
@@ -91,3 +95,4 @@ Themes: gruvbox, radical, tokyonight
 <img src="./assets/metrics.plugin.achievements.svg">
 -->
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
