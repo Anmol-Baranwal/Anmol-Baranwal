@@ -13,7 +13,7 @@
 </div>
 <br>
 
-I enjoy learning new frameworks and libraries with algorithms that has the potential to solve real-world issues.<br>
+I enjoy learning new frameworks, libraries and algorithms that has the potential to solve real-world issues. <br>
 
 - 🎓 I'm completing my Bachelor of Technology in the field of computer science.
 - 🚀 I'm a web developer with solid experience in User Interface Design.
@@ -57,8 +57,8 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
   
 <h1> Let's Chat here <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> </h1>
 <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 <a href="mailto:advaithunni2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anmol#7140" ></a>
 <hr>
 
@@ -76,7 +76,7 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 
 ![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
 
-![line gif](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 <!--
 tokyonight vs radical
@@ -84,6 +84,8 @@ tokyonight vs radical
 Themes: gruvbox, radical, tokyonight
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+![line gif](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif)  fading line
 
 <details>
   <summary>GitHub Trophies 🏆</summary>
@@ -94,5 +96,3 @@ Themes: gruvbox, radical, tokyonight
 
 <img src="./assets/metrics.plugin.achievements.svg">
 -->
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
