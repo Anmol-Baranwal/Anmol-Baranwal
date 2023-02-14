@@ -19,6 +19,8 @@ I enjoy learning new frameworks, libraries and algorithms that has the potential
 - 🚀 I'm a web developer with solid experience in User Interface Design.
 - 🧩 Fun fact: I ❤️ playing chess & doing open-source contributions.
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anmol-Baranwal&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 <h1> Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
@@ -49,16 +51,23 @@ I enjoy learning new frameworks, libraries and algorithms that has the potential
 <hr>
 
 <!-- https://metrics.lecoq.io/     -> go to this url to add your shared instance
-https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/shared.md    -->
+https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/shared.md    
 
 <img src="github-metrics.svg" />
+
+NOT WORKING ANYMORE
+-->
+
+<h1> My Journey <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> </h1>
+
+<a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 
 <hr>
   
 <h1> Let's Chat here <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> </h1>
 <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:advaithunni2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anmol#7140" ></a>
 <hr>
 
@@ -77,6 +86,7 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 ![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
 
 <!--
 tokyonight vs radical
