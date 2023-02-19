@@ -61,7 +61,7 @@ NOT WORKING ANYMORE
 <h1> My Journey <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> </h1>
 
 <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-<a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+<a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 
 <hr>
   
@@ -87,8 +87,10 @@ NOT WORKING ANYMORE
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-
+ 
+ 
 <!--
+=======================================    COMMENTS     =======================================
 tokyonight vs radical
 
 Themes: gruvbox, radical, tokyonight
