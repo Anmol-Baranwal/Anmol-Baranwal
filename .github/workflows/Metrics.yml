@@ -15,7 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
           # Options
           user: Anmol-Baranwal
           template: classic
@@ -34,7 +33,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html
           plugin_languages_limit: 6
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -42,12 +41,14 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_history_limit: 1
+          plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_filter: stars:>1000
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
           plugin_notable_types: commit
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_starred: 4
+          plugin_repositories_starred: 5
