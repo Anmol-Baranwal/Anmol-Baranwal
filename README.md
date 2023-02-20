@@ -1,3 +1,7 @@
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Typing SVG ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 <p align="center">
   <a href="https://github.com/Anmol-Baranwal">
     <img src="https://user-images.githubusercontent.com/74038190/206688648-cf6a7268-47b1-4bf1-b6ce-84bf9fd97b38.png" alt="Anmol Baranwal" title="Hi there"/></a>
@@ -8,10 +12,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge ------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 <div align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 </div>
 <br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Brief Info ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 I enjoy learning new frameworks, libraries and algorithms that has the potential to solve real-world issues. <br>
 
@@ -19,9 +31,17 @@ I enjoy learning new frameworks, libraries and algorithms that has the potential
 - 🚀 I'm a web developer with solid experience in User Interface Design.
 - 🧩 Fun fact: I ❤️ playing chess & doing open-source contributions.
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anmol-Baranwal&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <h1> Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
 <div align="center">
@@ -50,13 +70,23 @@ I enjoy learning new frameworks, libraries and algorithms that has the potential
 </div>
 <hr>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 <!-- https://metrics.lecoq.io/     -> go to this url to add your shared instance
 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/shared.md    
 
 <img src="github-metrics.svg" />
 
-NOT WORKING ANYMORE
+NOT WORKING TILL THEN MARKDOWN CODE
 -->
+
+![Metrics](https://metrics.lecoq.io/Anmol-Baranwal?template=classic&languages=1&lines=1&followup=1&repositories=1&discussions=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.ignored=html&languages.limit=6&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=2&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&repositories=false&repositories.pinned=0&repositories.starred=5&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=false&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable=false&notable.filter=stars%3A%3E1000&notable.from=all&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FCalcutta)
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- My Journey ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <h1> My Journey <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> </h1>
 
@@ -65,12 +95,19 @@ NOT WORKING ANYMORE
 
 <hr>
   
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 <h1> Let's Chat here <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> </h1>
 <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:advaithunni2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anmol#7140" ></a>
 <hr>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <h1> <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> If you loved my work! Support me Here !! </h1>
 <a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
@@ -78,16 +115,22 @@ NOT WORKING ANYMORE
 
 <br><br>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 | ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
 | -- | -- |
 
 <hr>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 ![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-
- 
  
 <!--
 =======================================    COMMENTS     =======================================
