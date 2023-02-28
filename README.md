@@ -28,8 +28,8 @@
 I enjoy learning new frameworks, libraries and algorithms that has the potential to solve real-world issues. <br>
 
 - 🎓 I'm completing my Bachelor of Technology in the field of computer science.
-- 🚀 I'm a web developer with solid experience in User Interface Design.
-- 🧩 Fun fact: I ❤️ playing chess & doing open-source contributions.
+- 🚀 I'm a Full-Stack developer interested in maintaining communities.
+- 🔥 Fun fact: I ❤️ playing chess & doing open-source contributions.
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -57,6 +57,7 @@ I enjoy learning new frameworks, libraries and algorithms that has the potential
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
