@@ -18,4 +18,5 @@ jobs:
           base: header, activity, community, repositories
           plugin_lines: yes
           plugin_lines_sections: base, repositories
+          plugin_lines_skipped: testing, The-Futurists_Manthan_Frontend
           plugin_lines_repositories_limit: 4
