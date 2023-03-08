@@ -25,11 +25,11 @@
 <!--- -- Brief Info ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-I enjoy learning new frameworks, libraries and algorithms that has the potential to solve real-world issues. <br>
+There's nothing quite like the thrill of discovering new frameworks, and libraries that can make a real difference in solving real-world problems. <br>
 
 - 🎓 I'm completing my Bachelor of Technology in the field of computer science.
-- 🚀 I'm a Full-Stack developer interested in maintaining communities.
-- 🔥 Fun fact: I ❤️ playing chess & doing open-source contributions.
+- 🚀 My expertise as a Full-Stack developer is complemented by my passion for community engagement and maintenance.
+- 🔥 I'm not just a tech enthusiast, I also have a soft spot for chess and contributing to open-source projects.
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -75,15 +75,15 @@ I enjoy learning new frameworks, libraries and algorithms that has the potential
 
 # Metrics
 
-<!-- You can check the workflows here: (.github/workflows) in the root directory  -->
+<!-- You can check the workflows here: (.github/workflows)   -->
 
 <details>
   <summary>Expand</summary> 
 
-| Overview | PRs, Issues & Discussions |
+| Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
 | ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
-| Leetcode Stats |Notable Contributions Metrics |
+| Leetcode Stats | Notable Contributions |
 | ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
 | Achievements | Lanugage Activity |
 | ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
@@ -151,14 +151,4 @@ Themes: gruvbox, radical, tokyonight
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-![line gif](https://user-images.githubusercontent.com/74038190/210104543-5fcc3587-ed35-4666-86ec-7d34275e651e.gif)  fading line
-
-<details>
-  <summary>GitHub Trophies 🏆</summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anmol-Baranwal"/>
-  </p>
-</details>
-
-<img src="./assets/metrics.plugin.achievements.svg">
 -->
