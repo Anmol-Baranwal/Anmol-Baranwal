@@ -4,7 +4,7 @@ on:
   schedule: [{ cron: "0 */12 * * *" }]
   # Lines below let you run workflow manually with each commit
   workflow_dispatch:
-  push: { branches: ["master", "main"] }
+  push: { branches: ["master", "main", "metrics"] }
 jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
   language-activity-metrics:
