@@ -18,4 +18,4 @@ jobs:
           base: header, activity, community, repositories
           plugin_lines: yes
           plugin_lines_sections: base, repositories
-          plugin_lines_repositories_limit: 5
+          plugin_lines_repositories_limit: 4
