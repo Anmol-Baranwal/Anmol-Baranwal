@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   follow-up-pr-metrics:
-      runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -19,7 +19,7 @@ jobs:
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories, user
   achievements-metrics:
-      runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -36,7 +36,7 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
   discussions-metrics:
-      runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
