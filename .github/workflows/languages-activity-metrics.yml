@@ -19,9 +19,8 @@ jobs:
           plugin_languages_ignored: >-
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
-          plugin_languages_indepth: yes   # do not use it, this may leak important company code
           plugin_languages_other: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_details: lines, percentage # Note that lines is only available when plugin_languages_indepth is enabled
-          plugin_languages_limit: 7   # limit is 8
+          plugin_languages_limit: 6   # limit is 8
           plugin_languages_analysis_timeout: 15
