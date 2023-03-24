@@ -22,18 +22,39 @@
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Brief Info ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- Brief Info + Dev Card ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+ 
+<br>
 
-There's nothing quite like the thrill of discovering new frameworks, and libraries that can make a real difference in solving real-world problems. <br>
+<a href="https://app.daily.dev/Anmol-Baranwal"><img align="left" src="devcard.svg" width="250" alt="Anmol Baranwal's Dev Card"/></a>
 
-- 🎓 I'm completing my Bachelor of Technology in the field of computer science.
-- 🚀 My expertise as a Full-Stack developer is complemented by my passion for community engagement and maintenance.
-- 🔥 I'm not just a tech enthusiast, I also have a soft spot for chess and contributing to open-source projects.
+<div>
+
+<i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
+
+🎓 &nbsp; I'm completing my Bachelor of Technology in the field of computer science.
+
+🔥 &nbsp; Proudly active in supportive programming community on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with 1k+ reputation.
+
+🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
+
+🌐 &nbsp; Let's collaborate and spark new ideas together by connecting on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/).
+
+🚀 &nbsp; My expertise as a Full-Stack developer is complemented by my passion for community engagement.
+
+😄 &nbsp; I also have a soft spot for chess, technical writing, and contributing to open-source projects.
+
+
+</div>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<br><br><br>
+<hr>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anmol-Baranwal&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
