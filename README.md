@@ -27,7 +27,7 @@
  
 <br>
 
-<a href="https://app.daily.dev/Anmol-Baranwal"><img align="left" src="devcard.svg" width="250" alt="Anmol Baranwal's Dev Card"/></a>
+<a href="https://app.daily.dev/Anmol-Baranwal"><img align="left" src="devcard.svg" width="350" alt="Anmol Baranwal's Dev Card"/></a>
 
 <div>
 
