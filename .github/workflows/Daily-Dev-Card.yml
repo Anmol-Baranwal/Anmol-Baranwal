@@ -18,7 +18,6 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DAILYDEVCARD_ID }}
-          commit_branch: devcard
-          filename: assets/devcard.svg
+          commit_branch: main
           commit_filename: devcard.svg
           commit_message: "chore: update ${filename}"
