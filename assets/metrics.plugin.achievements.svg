@@ -329,7 +329,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.04604604604605 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.2012012012012 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -352,12 +352,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 112k out of 388m repositories</span>
+                                    <span class="gh">ranked 111k out of 388m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">330</div>
+                                        <div class="value">331</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 330 stars</div>
+                                <div class="text">Maintaining a repository with 331 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
