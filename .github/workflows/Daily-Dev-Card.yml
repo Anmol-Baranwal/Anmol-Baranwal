@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
+        uses: dailydotdev/action-devcard@2.2.0
         with:
           devcard_id: ${{ secrets.DAILYDEVCARD_ID }}
           commit_branch: main
