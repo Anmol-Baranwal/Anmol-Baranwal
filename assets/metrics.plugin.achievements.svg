@@ -183,7 +183,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.700000000000003 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.183333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -203,10 +203,10 @@
                                     <span class="prefix">Great</span>
                                     chatter
                                     <div class="value-wrapper">
-                                        <div class="value">242</div>
+                                        <div class="value">241</div>
                                     </div>
                                 </div>
-                                <div class="text">Participated in discussions 242 times</div>
+                                <div class="text">Participated in discussions 241 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -583,7 +583,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.020100502512562 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.798994974874372 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -620,12 +620,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 595k out of 112m users</span>
+                                    <span class="gh">ranked 563k out of 112m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">19</div>
+                                        <div class="value">20</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 19 users</div>
+                                <div class="text">Followed by 20 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
