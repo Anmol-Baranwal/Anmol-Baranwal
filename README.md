@@ -35,7 +35,7 @@
 
 🎓 &nbsp; I'm completing my Bachelor of Technology in the field of computer science.
 
-🔥 &nbsp; Proudly active in supportive programming community on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with 1k+ reputation.
+🔥 &nbsp; Proudly active in supportive programming community on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with <em>2k+</em> reputation.
 
 🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
 
@@ -43,7 +43,8 @@
 
 🚀 &nbsp; My expertise as a Full-Stack developer is complemented by my passion for community engagement.
 
-😄 &nbsp; I also have a soft spot for chess, technical writing on [dev.to](https://dev.to/anmolbaranwal), and contributing to open-source projects.
+😄 &nbsp; I also have a soft spot for [chess](https://lichess.org/@/Anmol_Baranwal
+), technical writing on [dev.to](https://dev.to/anmolbaranwal), and contributing to open-source projects.
 
 
 </div>
@@ -134,7 +135,7 @@
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 
-</details> 
+</details>                     
 <br>
 <hr>
 
@@ -142,11 +143,13 @@
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My Socials
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Social Network
 
 <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+<a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=for-the-badge&logo=Product%20Hunt&logoColor=white" /></a>
+<a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
 
 
 <hr>
@@ -155,9 +158,9 @@
 <!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> Let's Chat here 
+# <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40"> The Online Hangout
 <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:advaithunni2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anmol#7140" ></a>
 
 <hr>
@@ -166,7 +169,7 @@
 <!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> If you enjoyed my work! Support me Here !! 
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Fuel my passion 
 <a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 <a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" /></a>
 
