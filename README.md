@@ -35,7 +35,7 @@
 
 🎓 &nbsp; I'm completing my Bachelor of Technology in the field of computer science.
 
-🔥 &nbsp; Proudly active in supportive programming community on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with <em>2k+</em> reputation.
+🔥 &nbsp; Proudly active in supportive programming community on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with <em>3k+</em> reputation.
 
 🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
 
@@ -104,10 +104,11 @@
 
 | Projects | Deployed Link | Repository | Tech Stack |
 |:---------|:-------------:|:----------:|:-----------|
+| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | - | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
 | ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
 | Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
-| Password Generator | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
+| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
 | Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
 | Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` |
 | C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
