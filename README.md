@@ -56,6 +56,10 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [200 Free AI Tools - Unleashing the Power of AI](https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0)
+- [25+ Stunning Portfolios that will blow your mind - with code](https://dev.to/anmolbaranwal/stunning-portfolios-that-will-blow-your-mind-fuel-your-creativity-226o)
+- [15 ChatGPT Plugins to hack productivity](https://dev.to/anmolbaranwal/15-chatgpt-plugins-to-hack-productivity-1e8d)
+- [Make GitHub Readme Like Pro](https://dev.to/anmolbaranwal/make-github-readme-like-pro-15am)
 <!-- BLOG-POST-LIST:END -->
 
 
