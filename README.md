@@ -67,7 +67,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-<br><br>
+<br>
 <hr>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anmol-Baranwal&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
