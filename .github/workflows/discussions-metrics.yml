@@ -1,0 +1,20 @@
+# Read the full reference here: https://github.com/lowlighter/metrics/blob/master/action.yml
+name: Disussions
+on:
+  # Schedule updates (At minute 0 past every 12th hour)
+  schedule: [{ cron: "0 */12 * * *" }]
+  # Lines below let you run workflow manually with each commit
+  workflow_dispatch:
+  push: { branches: ["master","main", "metrics"] }
+jobs:
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/discussions/README.md
+  discussions-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.discussions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
