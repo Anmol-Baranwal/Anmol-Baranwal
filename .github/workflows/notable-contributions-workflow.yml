@@ -1,0 +1,24 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Notable Contributions
+on:
+  # Schedule updates (At minute 0 past every 12th hour)
+  schedule: [{ cron: "0 */12 * * *" }]
+  # Lines below let you run workflow manually with each commit
+  workflow_dispatch:
+  push: { branches: ["master", "main", "metrics"] }
+jobs:
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/notable/README.md
+  notable-contributions-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.notable.contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit, pull_request
+          plugin_notable_filter: stars:>=500
