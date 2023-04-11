@@ -1,0 +1,20 @@
+name: Latest blog posts workflow 
+on: 
+  # Schedule updates (At 23hrs every 2 days)
+  schedule: [{ cron: "0 23 */2 * *" }]    # 0 */12 * * * -> (At minute 0 past every 12th hour)
+  # Lines below let you run workflow manually with each commit
+  workflow_dispatch:
+  push: { branches: ["master", "main", "blog-workflow"] }
+jobs: 
+    # refer this: https://github.com/gautamkrishnar/blog-post-workflow
+    update-readme-with-blog: 
+        name: Update README with latest blog posts from dev
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://dev.to/feed/anmolbaranwal" 
+                commit_message: "docs: update latest blog posts"
+                committer_username: "blog-buddy"
