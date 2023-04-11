@@ -1,0 +1,22 @@
+name: Leetcode
+on:
+  # Schedule updates (At minute 0 past every 12th hour)
+  schedule: [{ cron: "0 */12 * * *" }]
+  # Lines below let you run workflow manually with each commit
+  workflow_dispatch:
+  push: { branches: ["master","main", "metrics"] }
+jobs:
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/leetcode/README.md
+  leetcode-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: anmol4coder
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_limit_recent: 5
+          plugin_leetcode_limit_skills: 7
