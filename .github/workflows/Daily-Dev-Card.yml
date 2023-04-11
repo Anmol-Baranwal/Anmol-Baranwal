@@ -1,0 +1,23 @@
+name: DevCard
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    { branches: ["master", "main", "daily-dev"] }
+  # Schedule updates (At minute 0 past every 12th hour)
+  schedule: [{ cron: "0 */12 * * *" }]
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.2.0
+        with:
+          devcard_id: ${{ secrets.DAILYDEVCARD_ID }}
+          commit_branch: main
+          commit_filename: devcard.svg
+          commit_message: "chore: update ${filename}"
