@@ -11,7 +11,7 @@ jobs:
         name: Update README with latest blog posts from dev
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v3
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
