@@ -35,7 +35,7 @@
 
 🎓 &nbsp; I'm completing my Bachelor of Technology in the field of computer science.
 
-🔥 &nbsp; Proudly active in supportive programming community on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with <em>3k+</em> reputation.
+🔥 &nbsp; Proudly active in supportive programming community on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with <em>4k+</em> reputation.
 
 🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
 
