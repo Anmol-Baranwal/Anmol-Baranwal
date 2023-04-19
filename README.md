@@ -60,6 +60,8 @@
 - [400 Free AI Tools - Unleashing the Power of AI](https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0)
 - [25+ Stunning Portfolios with code](https://dev.to/anmolbaranwal/stunning-portfolios-that-will-blow-your-mind-fuel-your-creativity-226o)
 - [15 ChatGPT Plugins to hack productivity](https://dev.to/anmolbaranwal/15-chatgpt-plugins-to-hack-productivity-1e8d)
+- [Make GitHub Readme Like Pro](https://dev.to/anmolbaranwal/make-github-readme-like-pro-15am)
+- [Use GitHub Like a Pro](https://dev.to/anmolbaranwal/use-github-like-a-pro-75a)
 <!-- BLOG-POST-LIST:END -->
 
 
