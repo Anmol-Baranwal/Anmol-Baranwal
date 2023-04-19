@@ -14,7 +14,7 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "4"
+                max_post_count: "6"
                 feed_list: "https://dev.to/feed/anmolbaranwal" 
                 commit_message: "docs: update latest blog posts"
                 committer_username: "blog-buddy"
