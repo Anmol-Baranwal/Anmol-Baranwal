@@ -127,7 +127,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 835k out of 113m users</span>
+                                    <span class="gh">ranked 836k out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">40</div>
                                     </div>
@@ -373,7 +373,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.287287287287285 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.44244244244244 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -396,12 +396,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 111k out of 394m repositories</span>
+                                    <span class="gh">ranked 110k out of 394m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">338</div>
+                                        <div class="value">339</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 338 stars</div>
+                                <div class="text">Maintaining a repository with 339 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -620,7 +620,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 426k out of 113m users</span>
+                                    <span class="gh">ranked 427k out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">26</div>
                                     </div>
@@ -638,7 +638,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5577889447236182 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.336683417085427 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -656,10 +656,10 @@
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">3</div>
+                                        <div class="value">4</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 3 users</div>
+                                <div class="text">Following 4 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
