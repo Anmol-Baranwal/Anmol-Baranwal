@@ -57,9 +57,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [20 Tools for Building Stunning Websites without coding](https://dev.to/anmolbaranwal/20-game-changing-website-builders-to-build-classy-websites-without-coding-4ll7)
-- [Create Stunning Videos with These 7 AI-Powered Editing Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
+- [Create Mind-blowing Videos with These AI Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
 - [7 Incredible Communities That Will Change Your Life Forever](https://dev.to/anmolbaranwal/7-incredible-communities-that-will-change-your-life-forever-28n1)
-- [350 Chrome Extensions to Unleash Your Productivity](https://dev.to/anmolbaranwal/350-chrome-extensions-to-unleash-your-productivity-4k2o)
+- [Ultimate List of Chrome Extensions](https://dev.to/anmolbaranwal/350-chrome-extensions-to-unleash-your-productivity-4k2o)
 - [400 Free AI Tools - Unleashing the Power of AI](https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0)
 - [25+ Stunning Portfolios with code](https://dev.to/anmolbaranwal/stunning-portfolios-that-will-blow-your-mind-fuel-your-creativity-226o)
 <!-- BLOG-POST-LIST:END -->
