@@ -56,12 +56,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Reasons Why I Love GitHub](https://dev.to/anmolbaranwal/10-reasons-why-i-love-github-a-10-month-journey-of-passion-and-growth-23h5)
 - [20 Tools for Building Stunning Websites without coding](https://dev.to/anmolbaranwal/20-game-changing-website-builders-to-build-classy-websites-without-coding-4ll7)
 - [Create Mind-blowing Videos with These AI Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
 - [7 Incredible Communities That Will Change Your Life Forever](https://dev.to/anmolbaranwal/7-incredible-communities-that-will-change-your-life-forever-28n1)
 - [Ultimate List of Chrome Extensions](https://dev.to/anmolbaranwal/350-chrome-extensions-to-unleash-your-productivity-4k2o)
 - [400 Free AI Tools - Unleashing the Power of AI](https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0)
-- [25+ Stunning Portfolios with code](https://dev.to/anmolbaranwal/stunning-portfolios-that-will-blow-your-mind-fuel-your-creativity-226o)
 <!-- BLOG-POST-LIST:END -->
 
 
