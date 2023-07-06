@@ -20,31 +20,36 @@
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Brief Info  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
 <div>
 
-<i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
+<i>&nbsp; Experiencing the exhilaration of having your work recognized and appreciated by the community is an unmatched sensation. I have an unwavering passion for crafting cutting-edge solutions with open source at heart.</i><br><br>
 
-🎓 &nbsp; I'm completing my Bachelor of Technology in the field of computer science.
+👋 Greetings! It's great to have you here. I'm Anmol Baranwal, an enthusiastic full-stack developer hailing from India. It's a pleasure to connect with fellow tech enthusiasts like you.
 
-🔥 &nbsp; Proudly active in supportive programming community on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with <em>5k+</em> reputation.
+🎓 &nbsp; With a Bachelor of Technology degree in computer science, I'm always pushing the boundaries of what's possible in the world of technology.
 
-🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
+🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation, where I share my insights and connect with amazing individuals like you.
 
-🌐 &nbsp; Let's collaborate and spark new ideas together by connecting on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/).
+🤝 &nbsp; Let's connect on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and collaborate on projects that make a difference. I can't wait to hear your ideas and explore new opportunities together.
 
-🚀 &nbsp; My expertise as a Full-Stack developer is complemented by my passion for community engagement.
+🚀 &nbsp; Passionate about both community engagement and crafting cutting-edge solutions, I bring a unique blend of expertise as a Full-Stack developer. My forte lies in exploring and harnessing the potential of cutting-edge technologies such as Next.js.
 
-😄 &nbsp; I also have a soft spot for [chess](https://lichess.org/@/Anmol_Baranwal
-), technical writing on [dev.to](https://dev.to/anmolbaranwal), and contributing to open-source projects.
+🔖 &nbsp; I've been busy creating valuable content and producing articles that educate and inspire others in the tech community. Explore my insightful reads and join my 1k+ followers on [dev.to](https://dev.to/anmolbaranwal), where I strive to provide awesome resources and foster a vibrant community of tech enthusiasts.
 
+🎁 I have actively participated in the product hunt community, where my exceptional free and open-source resource received 40+ upvotes. Check out the product on [Product Hunt](https://www.producthunt.com/posts/awesome-illustrations-for-projects) to see its impact.
+
+😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [chess](https://lichess.org/@/Anmol_Baranwal
+), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or contributing to exciting open-source projects.
+
+📚 To discover more about my work, achievements, and ongoing projects, visit https://anmolbaranwal.co/. It's a comprehensive showcase of my professional journey.
 
 </div>
 
-<br><br><br>
+<br><br>
 
 ## Latest Blog Posts  
 
@@ -169,7 +174,7 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=d5d5d5&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=dark&border_radius=8) |
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
 <hr>
