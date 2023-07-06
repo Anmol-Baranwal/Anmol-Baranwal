@@ -49,8 +49,35 @@
 
 </div>
 
+<br>
+
 <details>
-  <summary>🏆 Achievements</summary> 
+  <summary>🏆 Achievements</summary>
+  <br>
+  
+  💜 Competition Zone
+  - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
+  - 3rd Rank in a _Avenues 21_ conducted by _SJMSOM_ and _IIT Bombay_ on the topic of Vigilance Awareness.
+  - Top 10 in the national event _Smartcase_ and got a chance to submit Research Proposal.
+  - 3rd Rank in the United Nations Awareness Quiz (national level) conducted by _Helping Hand International_, receiving a _30%_ scholarship in the UN Mentorship Program.
+  - 3rd Rank (263 contestants) in the MarQuest conducted by _MDI Gurgaon_ under Imperium 2022.
+  - Pre-final round in Start-O-Thon organized by _IEEE CIS Chapter - GHREC_, demonstrating the pitch deck with a prototype for the project _#DiversityMatters_.
+  - 3rd prize in _The Social Variable_ powered by _Connecting Dreams Foundations_ and _Amazon Web Services_ in a national competition comprising four rounds.
+  - Finalist in the designathon competition conducted by _Delhi Technological University_.
+
+  💜 GitHub Zone
+  - _200+_ Stars on my GitHub Profile.
+  - Active participant in GitHub Community discussions, answering [35+ discussions](https://github.com/orgs/community/discussions?discussions_q=commenter%3AAnmol-Baranwal+is%3Aanswered).
+  - Consistently ranked as one of the _top 5_ Most Helpful members on the [GitHub Community](https://github.com/orgs/community/discussions) discussions for almost a month.
+  - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
+  - Managing [ZeroOctave JavaScript Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) with 400+ Stars on GitHub.
+  - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
+
+  💜 Casual Zone
+  - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college.
+  - 2nd Prize in Coding Treasure Hunt at college.
+  - 1200 Rank in National Coding Competition _Accio-Wars_
+  
 </details>
 
 <br><br>
