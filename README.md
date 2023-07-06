@@ -49,6 +49,10 @@
 
 </div>
 
+<details>
+  <summary>🏆 Achievements</summary> 
+</details>
+
 <br><br>
 
 ## Latest Blog Posts  
@@ -73,7 +77,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anmol-Baranwal&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
