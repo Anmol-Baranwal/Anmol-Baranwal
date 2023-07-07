@@ -8,7 +8,7 @@ on:
   push:
     { branches: ["master", "main", "daily-dev"] }
   # Schedule updates (At minute 0 past every 12th hour)
-  schedule: [{ cron: "0 */12 * * *" }]
+  schedule: [{ cron: "0 0 1 */2 *" }]
 
 jobs:
   devcard:
