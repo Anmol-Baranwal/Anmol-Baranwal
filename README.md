@@ -64,6 +64,7 @@
   - Pre-final round in Start-O-Thon organized by _IEEE CIS Chapter - GHREC_, demonstrating the pitch deck with a prototype for the project _#DiversityMatters_.
   - 3rd prize in _The Social Variable_ powered by _Connecting Dreams Foundations_ and _Amazon Web Services_ in a national competition comprising four rounds.
   - Finalist in the designathon competition conducted by _Delhi Technological University_.
+  - Finalist in Ad-O-Mania, conducted by IIM Ranchi
 
   💜 GitHub Zone
   - _200+_ Stars on my GitHub Profile.
@@ -72,12 +73,14 @@
   - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
   - Managing [ZeroOctave JavaScript Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) with 400+ Stars on GitHub.
   - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
-  - _5k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal)
 
   💜 Casual Zone
   - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college.
   - 2nd Prize in Coding Treasure Hunt at college.
   - 1200 Rank in National Coding Competition _Accio-Wars_
+  - Part of the Super 30 Batch, availing a 100% scholarship (3 students in the entire college)
+  - Acquired over _1k_ followers on [Dev.to](https://dev.to/anmolbaranwal) through trending articles
+  - _5k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal)
   
 </details>
 
