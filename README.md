@@ -142,9 +142,10 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects | Deployed Link | Repository | Tech Stack |
-|:---------|:-------------:|:----------:|:-----------|
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
 | Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
+| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
 | ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
 | BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
 | Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
