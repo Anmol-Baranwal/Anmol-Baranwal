@@ -26,19 +26,21 @@
 
 <div>
 
-<i>&nbsp; Experiencing the exhilaration of having your work recognized and appreciated by the community is an unmatched sensation. I have an unwavering passion for crafting cutting-edge solutions with open source at heart.</i><br><br>
+<i>&nbsp; Experiencing the exhilaration of having your work recognized and appreciated by the community is an unmatched sensation. I have an unwavering dedication to exploring trending technologies like web3 and blockchain.</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Anmol Baranwal, an enthusiastic full-stack developer hailing from India. It's a pleasure to connect with fellow tech enthusiasts like you.
+👋 Greetings! It's great to have you here. I'm Anmol Baranwal, an enthusiastic full-stack developer hailing from India.
 
-🎓 &nbsp; With a Bachelor of Technology degree in computer science, I'm always pushing the boundaries of what's possible in the world of technology.
+🏆 Secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for 2 lakh+ audiences.
 
-🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation, where I share my insights and connect with amazing individuals like you.
+🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science.
 
-🤝 &nbsp; Let's connect on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and collaborate on projects that make a difference. I can't wait to hear your ideas and explore new opportunities together.
+🤝 &nbsp; Let's connect on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and collaborate on projects that make a difference.
 
-🚀 &nbsp; Passionate about both community engagement and crafting cutting-edge solutions, I bring a unique blend of expertise as a Full-Stack developer. My forte lies in exploring and harnessing the potential of cutting-edge technologies such as Next.js.
+🚀 &nbsp; Passionate about community engagement and crafting cutting-edge solutions, I bring a unique blend of expertise as a Full-Stack developer. My forte lies in exploring and harnessing the potential of trending technologies such as Next.js and TypeScript.
 
-🔖 &nbsp; I've been busy creating valuable content and producing articles that educate and inspire others in the tech community. Explore my insightful reads and join my 1k+ followers on [dev.to](https://dev.to/anmolbaranwal), where I strive to provide awesome resources and foster a vibrant community of tech enthusiasts.
+🔖 &nbsp; I've been busy creating valuable content and producing articles that educate and inspire others in the tech community. Explore my insightful reads and join my 1k+ followers on [dev.to](https://dev.to/anmolbaranwal).
+
+🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation.
 
 🎁 I have actively participated in the product hunt community, where my exceptional free and open-source resource received 40+ upvotes. Check out the product on [Product Hunt](https://www.producthunt.com/posts/awesome-illustrations-for-projects) to see its impact.
 
@@ -56,6 +58,7 @@
   <br>
   
   💜 Competition Zone
+  - #11 in GSSoC'23
   - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
   - 3rd Rank in a _Avenues 21_ conducted by _SJMSOM_ and _IIT Bombay_ on the topic of Vigilance Awareness.
   - Top 10 in the national event _Smartcase_ and got a chance to submit Research Proposal.
@@ -198,7 +201,7 @@
   <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
   <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
   <br>
-  <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a>
+  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /></a> 
   <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
