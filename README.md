@@ -201,7 +201,7 @@
   <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
   <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
   <br>
-  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" /></a> 
+  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-d5d5d5?style=for-the-badge&logo=codecademy&logoColor=0A0209" /></a> 
   <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
