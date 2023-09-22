@@ -27,19 +27,19 @@
 
 <div>
 
-<i>&nbsp; Experiencing the exhilaration of having your work recognized and appreciated by the community is an unmatched sensation. I have an unwavering dedication to exploring trending technologies like web3 and blockchain.</i><br><br>
+<i>&nbsp; Building products with open source.</i><br><br>
 
 👋 Greetings! It's great to have you here. I'm Anmol Baranwal, an enthusiastic full-stack developer hailing from India.
 
+🎯 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on it shortly to make it into something people can use. If you wish to collaborate on a project, message me on [Twitter](https://twitter.com/Anmol_Codes).
+
 🏆 Secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for 2 lakh+ audiences.
 
-🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science.
+🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and also maintaining [LinksHub](https://github.com/rupali-codes/LinksHub).
 
-🤝 &nbsp; Let's connect on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and collaborate on projects that make a difference.
+🚀 &nbsp; I'm also part of several communities like [WebXDAO](https://github.com/WebXDAO) and my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
 
-🚀 &nbsp; Passionate about community engagement and crafting cutting-edge solutions, I bring a unique blend of expertise as a Full-Stack developer. My forte lies in exploring and harnessing the potential of trending technologies such as Next.js and TypeScript.
-
-🔖 &nbsp; I've been busy creating valuable content and producing articles that educate and inspire others in the tech community. Explore my insightful reads and join my 1k+ followers on [dev.to](https://dev.to/anmolbaranwal).
+🔖 &nbsp; I've been busy writing articles on [dev.to](https://dev.to/anmolbaranwal) with more than 30k views and 1k followers.
 
 🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation.
 
@@ -47,8 +47,6 @@
 
 😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [chess](https://lichess.org/@/Anmol_Baranwal
 ), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or contributing to exciting open-source projects.
-
-📚 To discover more about my work, achievements, and ongoing projects, visit https://anmolbaranwal.co/. It's a comprehensive showcase of my professional journey.
 
 </div>
 
@@ -148,6 +146,7 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
+| Designlyfe | [https://www.designlyfe.tech/] | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
 | WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
 | Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
 | MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
