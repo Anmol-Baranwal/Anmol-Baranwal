@@ -157,7 +157,7 @@
 | Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
 | Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
 | Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` |
+| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
 | C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
 
 <br>
