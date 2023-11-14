@@ -33,9 +33,11 @@
 
 🎯 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on it shortly to make it into something people can use. If you wish to collaborate on a project, message me on [Twitter](https://twitter.com/Anmol_Codes).
 
+✨ I'm part of core team at [Guidlify](https://github.com/Guidlify), connecting sponsors and tech community events.
+
 🏆 Secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for 2 lakh+ audiences.
 
-🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and also maintaining [LinksHub](https://github.com/rupali-codes/LinksHub).
+🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and also maintaining [LinksHub](https://github.com/rupali-codes/LinksHub) to make it a open source success.
 
 🚀 &nbsp; I'm also part of several communities like [WebXDAO](https://github.com/WebXDAO) and my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
 
@@ -147,6 +149,7 @@
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | Designlyfe | [Designlyfe](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
+| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
 | WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
 | Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
 | MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
