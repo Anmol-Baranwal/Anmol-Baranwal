@@ -42,14 +42,14 @@
 
 🚀 &nbsp; I'm also part of several communities like [WebXDAO](https://github.com/WebXDAO) and my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
 
-🔖 &nbsp; I've been busy writing articles on [dev.to](https://dev.to/anmolbaranwal) with more than 30k views and 1k followers.
+🔖 &nbsp; I also write trending articles on [dev.to](https://dev.to/anmolbaranwal) with more than _40k_ views and _2k_ followers.
 
 🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation.
 
 🎁 I have actively participated in the product hunt community, where my exceptional free and open-source resource received 40+ upvotes. Check out the product on [Product Hunt](https://www.producthunt.com/posts/awesome-illustrations-for-projects) to see its impact.
 
 😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [chess](https://lichess.org/@/Anmol_Baranwal
-), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or contributing to exciting open-source projects.
+), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or managing communities on discord.
 
 </div>
 
