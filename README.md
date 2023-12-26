@@ -30,26 +30,27 @@
 
 <i>&nbsp; Building products with open source.</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Anmol Baranwal, an enthusiastic full-stack developer hailing from India.
+👋 Greetings! It's great to have you here. I'm Anmol Baranwal, a full-stack developer from India, super into Open Source, and love managing communities.
 
-🎯 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on it shortly to make it into something people can use. If you wish to collaborate on a project, message me on [Twitter](https://twitter.com/Anmol_Codes).
+🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and [Twitter](https://twitter.com/Anmol_Codes). Be sure to follow me to get inspired.
 
-✨ I'm part of core team at [Guidlify](https://github.com/Guidlify), connecting sponsors and tech community events.
+✨ I'm part of core developer team at [Guidlify](https://github.com/Guidlify), connecting sponsors and tech community events. I rank in GitHub [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
 
-🏆 Secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for 2 lakh+ audiences.
+🏆 I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for _2 lakh+_ audiences.
 
-🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and also maintaining [LinksHub](https://github.com/rupali-codes/LinksHub) to make it a open source success.
+🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and played a pivotal role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into open source success story.
 
-🚀 &nbsp; I'm also part of several communities like [WebXDAO](https://github.com/WebXDAO) and my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
+🚀 &nbsp; I'm also part of exciting communities like [WebXDAO](https://github.com/WebXDAO), [Taipy](https://github.com/Avaiga/taipy), [DEV](https://dev.to/about) and my forte lies in exploring technologies like Nextjs with TypeScript to build products.
 
-🔖 &nbsp; I also write trending articles on [dev.to](https://dev.to/anmolbaranwal) with more than _40k_ views and _2k_ followers.
+🔖 &nbsp; I have written several trending articles on [dev.to](https://dev.to/anmolbaranwal) with more than _40k_ views and _2k_ followers. Shoot me a message at anmolbaranwal119@gmail.com for sponsorships and collaboration.
 
-🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation.
+🚀 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe).
 
-🎁 I have actively participated in the product hunt community, where my exceptional free and open-source resource received 40+ upvotes. Check out the product on [Product Hunt](https://www.producthunt.com/posts/awesome-illustrations-for-projects) to see its impact.
+🎁 I've been active on Product Hunt, where my outstanding [open-source resource](https://www.producthunt.com/posts/awesome-illustrations-for-projects) got _50+_ upvotes. I'm planning to launch more open source products in 2024.
 
-😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [chess](https://lichess.org/@/Anmol_Baranwal
-), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or managing communities on discord.
+😄 &nbsp; When I'm not coding, you can find me writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), managing communities on [discord](https://discordapp.com/users/776749637826117640), or creating content on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) & [Twitter](https://twitter.com/Anmol_Codes)
+
+🔥 &nbsp; In short, I love interacting with people and exploring life with tech in general :)
 
 </div>
 
@@ -72,11 +73,11 @@
   - Finalist in Ad-O-Mania, conducted by IIM Ranchi
 
   💜 GitHub Zone
-  - _200+_ Stars on my GitHub Profile.
+  - _500+_ Stars and _200+_ Merged PRs on my GitHub Profile.
   - Active participant in GitHub Community discussions, answering [35+ discussions](https://github.com/orgs/community/discussions?discussions_q=commenter%3AAnmol-Baranwal+is%3Aanswered).
   - Consistently ranked as one of the _top 5_ Most Helpful members on the [GitHub Community](https://github.com/orgs/community/discussions) discussions for almost a month.
   - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
-  - Managing [ZeroOctave JavaScript Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) with 400+ Stars on GitHub.
+  - Managing [LinksHub](https://www.linkshub.dev/contributors) with 500+ Stars and 2000+ PRs on GitHub.
   - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
 
   💜 Casual Zone
@@ -170,9 +171,10 @@
 <!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<!--
 # Metrics
 
-<!-- You can check the workflows here: (.github/workflows)   -->
+You can check the workflows here: (.github/workflows)   
 
 <details>
   <summary>Expand</summary> 
@@ -190,6 +192,8 @@
 </details>                     
 <br>
 <hr>
+
+-->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -223,8 +227,8 @@
 <!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Please Support Me Here 
-<a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me here 
+<a href="https://www.buymeacoffee.com/anmolbaranwal"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
 <a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&logo=gumroad&logoColor=0A0209" /></a>
 
 <br><br>
