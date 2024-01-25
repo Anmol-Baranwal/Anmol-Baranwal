@@ -97,12 +97,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Art of Headless CMS: 🚀 Build a next-gen product 🤯 with 20+ resources 🎁](https://dev.to/anmolbaranwal/art-of-headless-cms-build-a-next-gen-product-with-20-resources-1bpp)
 - [Do you need to code a portfolio in this digital world? 🚀](https://dev.to/anmolbaranwal/do-you-need-to-code-a-portfolio-in-this-digital-world-5ge1)
 - [🎁 20 Open Source projects you shouldn&#39;t miss in 2024](https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4)
 - [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje)
 - [10 Reasons Why GitHub will change your Life Forever](https://dev.to/anmolbaranwal/10-reasons-why-i-love-github-a-10-month-journey-of-passion-and-growth-23h5)
 - [20 Tools for Building Stunning Websites without coding](https://dev.to/anmolbaranwal/20-game-changing-website-builders-to-build-classy-websites-without-coding-4ll7)
-- [Create Mind-blowing Videos with These AI Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
 <!-- BLOG-POST-LIST:END -->
 
 
