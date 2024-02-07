@@ -97,12 +97,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [a solution to contributors creating multiple issues in open source - need feedback 🤞](https://dev.to/anmolbaranwal/a-solution-to-contributors-creating-multiple-issues-in-open-source-need-feedback-31cg)
 - [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c)
 - [😁12 things you didn&#39;t know you could do with DEV](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-2041)
 - [Art of Headless CMS: 🚀 Build a next-gen product 🤯 with 20+ resources 🎁](https://dev.to/anmolbaranwal/art-of-headless-cms-build-a-next-gen-product-with-20-resources-1bpp)
 - [Do you need to code a portfolio in this digital world? 🚀](https://dev.to/anmolbaranwal/do-you-need-to-code-a-portfolio-in-this-digital-world-5ge1)
 - [🎁 20 Open Source projects you shouldn&#39;t miss in 2024](https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4)
-- [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje)
 <!-- BLOG-POST-LIST:END -->
 
 
