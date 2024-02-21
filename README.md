@@ -97,12 +97,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [12 things you didn&#39;t know you could do with Nextjs](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-nextjs-386b)
 - [Make your portfolio in just 4 hours? It&#39;s possible.](https://dev.to/anmolbaranwal/make-your-portfolio-in-just-4-hours-its-possible-2p3)
 - [a solution to contributors creating multiple issues in open source - need feedback 🤞](https://dev.to/anmolbaranwal/a-solution-to-contributors-creating-multiple-issues-in-open-source-need-feedback-31cg)
 - [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c)
 - [😁12 things you didn&#39;t know you could do with DEV](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-2041)
 - [Art of Headless CMS: 🚀 Build a next-gen product 🤯 with 20+ resources 🎁](https://dev.to/anmolbaranwal/art-of-headless-cms-build-a-next-gen-product-with-20-resources-1bpp)
-- [Do you need to code a portfolio in this digital world? 🚀](https://dev.to/anmolbaranwal/do-you-need-to-code-a-portfolio-in-this-digital-world-5ge1)
 <!-- BLOG-POST-LIST:END -->
 
 
