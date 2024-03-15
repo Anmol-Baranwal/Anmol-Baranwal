@@ -42,7 +42,7 @@
 
 🚀 &nbsp; I'm also part of exciting communities like [WebXDAO](https://github.com/WebXDAO), [Taipy](https://github.com/Avaiga/taipy), [DEV](https://dev.to/about) and my forte lies in exploring technologies like Nextjs with TypeScript to build products.
 
-🔖 &nbsp; I have written several trending articles on [dev.to](https://dev.to/anmolbaranwal) with more than _80k_ views and _9k_ followers. Shoot me a message at anmolbaranwal119@gmail.com for sponsorships and collaboration.
+🔖 &nbsp; I have written several trending articles on [dev.to](https://dev.to/anmolbaranwal) with more than _80k_ views and _10k_ followers. Shoot me a message at anmolbaranwal119@gmail.com for sponsorships and collaboration.
 
 🚀 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe).
 
@@ -174,10 +174,8 @@
 <!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<!--
-# Metrics
 
-You can check the workflows here: (.github/workflows)   
+# Metrics
 
 <details>
   <summary>Expand</summary> 
@@ -196,7 +194,7 @@ You can check the workflows here: (.github/workflows)
 <br>
 <hr>
 
--->
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -231,6 +229,8 @@ You can check the workflows here: (.github/workflows)
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me here 
+
+<a href="https://github.com/sponsors/Anmol-Baranwal"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
 <a href="https://www.buymeacoffee.com/anmolbaranwal"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
 <a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&logo=gumroad&logoColor=0A0209" /></a>
 
