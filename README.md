@@ -97,12 +97,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
 - [All the tools I need to build a perfect AI app.](https://dev.to/taipy/all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh)
 - [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk)
 - [Save your articles and reading list from DEV to GitHub - DevtoGitHub](https://dev.to/anmolbaranwal/save-your-articles-and-reading-list-from-dev-to-github-devtogithub-pje)
 - [12 things you didn&#39;t know you could do with Nextjs](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-nextjs-386b)
 - [Make your portfolio in just 4 hours? It&#39;s possible.](https://dev.to/anmolbaranwal/make-your-portfolio-in-just-4-hours-its-possible-2p3)
-- [a solution to contributors creating multiple issues in open source - need feedback 🤞](https://dev.to/anmolbaranwal/a-solution-to-contributors-creating-multiple-issues-in-open-source-need-feedback-31cg)
 <!-- BLOG-POST-LIST:END -->
 
 
