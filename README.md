@@ -17,7 +17,6 @@
   <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   anmolbaranwal119@gmail.com" /></a>
   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a>
   <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
-  <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username anmolbaranwal" ></a>
 </div>
 <br>
 
@@ -25,33 +24,30 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-
 <div>
 
-<i>&nbsp; Building products with open source.</i><br><br>
+<i>&nbsp; Building solutions with open source.</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Anmol Baranwal, a full-stack developer from India, super into Open Source, and love managing communities.
+👋 Hi! I'm Anmol Baranwal, a full-stack developer from India, super into Open Source, and working as a Technical writer for international brands.
 
-🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and [Twitter](https://twitter.com/Anmol_Codes).
+🔥 I have worked with more than 8 international teams like [Taipy](https://github.com/Avaiga/taipy), [CopilotKit](https://github.com/CopilotKit/CopilotKit), [Wing](https://github.com/winglang/wing), reaching an audience of over _100k_. If you need a technical writer, DM me on Twitter or LinkedIn.
 
-✨ I'm part of core developer team at [Guidlify](https://github.com/Guidlify), connecting sponsors and tech community events. I rank in GitHub [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
+🔖 &nbsp; As a top author on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal), my content has been featured in prestigious communities like GitHub, resulting in a follower base of over _10k+_ within 3 months.
 
-🏆 I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for _2 lakh+_ audiences.
+🚀 &nbsp; I've established myself in the [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card) of GitHub by contributing to _40+_ projects with _200+_ Pull Requests, participating in _500+_ discussions, and earning a lot of reputation.
 
-🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and played a pivotal role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into open source success story.
+🎓 &nbsp; A 100% scholar in CS, I've played a crucial role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into an open source success story. I'm also a part of the core developer team at [Guidlify](https://github.com/Guidlify), connecting sponsors and tech community events.
 
-🚀 &nbsp; I'm also part of exciting communities like [WebXDAO](https://github.com/WebXDAO), [Taipy](https://github.com/Avaiga/taipy), [DEV](https://dev.to/about) and my forte lies in exploring technologies like Nextjs with TypeScript to build products.
+🤝 &nbsp; I have learned a lot about the Open Source ecosystem during the past 2 years so I'm guiding others to start their journey with open source in multiple communities on Discord & WhatsApp.
 
-🔖 &nbsp; I have written several trending articles on [dev.to](https://dev.to/anmolbaranwal) with more than _80k_ views and _10k_ followers. Shoot me a message at anmolbaranwal119@gmail.com for sponsorships and collaboration.
+☑️ &nbsp; I create helpful tips on open source, share resources, and a lot more to help you grow "1% every day" on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and [Twitter](https://twitter.com/Anmol_Codes). Be sure to follow me there for daily insightful tips!
 
-🚀 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe).
+🏆 &nbsp; I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and created content as a core team member (GSSoC'23 Team) for _200k_ audiences.
 
-🎁 I've been active on Product Hunt, where my outstanding [open-source resource](https://www.producthunt.com/posts/awesome-illustrations-for-projects) got _50+_ upvotes. I'm planning to launch more open source products in 2024.
+🎯 &nbsp; I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe). You can also check my [open source resource](https://www.producthunt.com/posts/awesome-illustrations-for-projects) on Product Hunt that received _50+_ upvotes.
 
-😄 &nbsp; When I'm not coding, you can find me writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), managing communities on [discord](https://discordapp.com/users/776749637826117640), or creating content on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) & [Twitter](https://twitter.com/Anmol_Codes)
-
-🔥 &nbsp; In short, I love interacting with people and exploring life with tech in general :)
-
+😄 &nbsp; Besides that, I participate in hackathons (won 7+ competitions), make side projects, brainstorm ideas, and keep learning new stuff :)
+  
 </div>
 
 <br>
@@ -61,7 +57,8 @@
   <br>
   
   💜 Competition Zone
-  - #11 in GSSoC'23
+  - #11 in GSSoC'23 with 100+ PRs.
+  - Won the Best Beginner Hack in [Ingenious Hackathon 5.0](https://ingenious-hackathon-4-d6bc.devfolio.co/projects).
   - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
   - 3rd Rank in a _Avenues 21_ conducted by _SJMSOM_ and _IIT Bombay_ on the topic of Vigilance Awareness.
   - Top 10 in the national event _Smartcase_ and got a chance to submit Research Proposal.
@@ -70,23 +67,25 @@
   - Pre-final round in Start-O-Thon organized by _IEEE CIS Chapter - GHREC_, demonstrating the pitch deck with a prototype for the project _#DiversityMatters_.
   - 3rd prize in _The Social Variable_ powered by _Connecting Dreams Foundations_ and _Amazon Web Services_ in a national competition comprising four rounds.
   - Finalist in the designathon competition conducted by _Delhi Technological University_.
-  - Finalist in Ad-O-Mania, conducted by IIM Ranchi
+  - 2nd Prize in Coding Treasure Hunt at college.
+  - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college. I enjoy playing chess :)
+  - 1200 Rank in National Coding Competition _Accio-Wars_
+  - Finalist in Ad-O-Mania, conducted by IIM Ranchi.
 
   💜 GitHub Zone
-  - _500+_ Stars and _200+_ Merged PRs on my GitHub Profile.
+  - _800+_ Stars, participated in _500+_ Discussions and _200+_ Merged PRs.
   - Active participant in GitHub Community discussions, answering [35+ discussions](https://github.com/orgs/community/discussions?discussions_q=commenter%3AAnmol-Baranwal+is%3Aanswered).
   - Consistently ranked as one of the _top 5_ Most Helpful members on the [GitHub Community](https://github.com/orgs/community/discussions) discussions for almost a month.
   - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
-  - Managing [LinksHub](https://www.linkshub.dev/contributors) with 500+ Stars and 2000+ PRs on GitHub.
+  - Open source maintainer of [LinksHub](https://www.linkshub.dev/contributors) with 600+ Stars and 2000+ PRs on GitHub.
   - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
 
-  💜 Casual Zone
-  - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college.
-  - 2nd Prize in Coding Treasure Hunt at college.
-  - 1200 Rank in National Coding Competition _Accio-Wars_
-  - Part of the Super 30 Batch, availing a 100% scholarship (3 students in the entire college)
-  - Acquired over _1k_ followers on [Dev.to](https://dev.to/anmolbaranwal) through trending articles
-  - _5k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal)
+  💜 Proud Zone
+  - Part of the Super 30 Batch, availing a 100% scholarship for pursuing B.Tech CSE (3 students in the entire college)
+  - _6k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal).
+  - Worked with 7+ international teams during the past 2 years.
+  - Gained more than 10k followers under 3 months on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal).
+  - Achieved 50 upvotes on my Product Hunt Launch.
   
 </details>
 
@@ -105,6 +104,16 @@
 - [Save your articles and reading list from DEV to GitHub - DevtoGitHub](https://dev.to/anmolbaranwal/save-your-articles-and-reading-list-from-dev-to-github-devtogithub-pje)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+
+> Some of the top-performing posts that I recommend you to read.
+
+|  Banner  |   Details  |
+|:--------:|:-----------|
+| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/9025d740-f383-40ac-89cd-c188b75d91ed" alt="open source 100x simpler" width="700" /> | ✧ Featured in the GitHub Community <br><br> [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c) |
+| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/e8b8a468-6e59-4302-ade7-c717dadb3e90" alt="Make your portfolio in just 4 hours" width="700" /> | ✧ Featured in the Top 7 <br><br> [Make your portfolio in just 4 hours? It's possible](https://dev.to/anmolbaranwal/make-your-portfolio-in-just-4-hours-its-possible-2p3) |
+| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/3d802c55-76b9-4638-b529-bb575ced5df4" alt="Shortcut to Find Open Source Projects 100x faster" width="700" /> | ✧ Featured in the Top 7 <br><br> ✧ Achieved over 20k views with 600+ reactions. <br><br> [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje) |
+| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/cb7218b0-e1a9-4a3f-b897-704e8686826b" alt="12 things you didn't know you could do with DEV" width="700" /> | ✧ Featured in the Top 7 <br><br> [😁12 things you didn't know you could do with DEV](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-2041) |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -162,9 +171,7 @@
 | ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
 | BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
 | Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
-| Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
 | Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
 | Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
 | C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
 
@@ -175,7 +182,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-# Metrics
+# My GitHub Metrics
 
 <details>
   <summary>Expand</summary> 
@@ -200,24 +207,30 @@
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
+
+> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
+
+<br>
 
 <div align="center">
-  <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
-  <br>
-  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a> 
-  <br> 
-  <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-0A0209?style=for-the-badge&logo=Product%20Hunt&logoColor=d5d5d5" /></a>
-  <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
-  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
+  <a href="https://www.polywork.com/anmolbaranwal"><img src="https://img.shields.io/badge/polywork-0A0209?style=for-the-badge&logo=polywork&logoColor=d5d5d5" ></a>
   <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
   <br>
-  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-d5d5d5?style=for-the-badge&logo=codecademy&logoColor=0A0209" /></a> 
+  <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-d5d5d5?style=for-the-badge&logo=Product%20Hunt&logoColor=0A0209" /></a>
+  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-d5d5d5?style=for-the-badge&logo=Devpost&logoColor=0A0209" /></a> 
+  <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://img.shields.io/badge/showwcase-d5d5d5?style=for-the-badge&logo=showwcase&logoColor=0A0209" ></a>
+  <br>
+  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0209?style=for-the-badge&logo=geeksforgeeks&logoColor=d5d5d5"/></a>
+  <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
+  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-0A0209?style=for-the-badge&logo=codecademy&logoColor=d5d5d5" /></a> 
+  <br> 
   <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
+  <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-d5d5d5?style=for-the-badge&logo=dribbble&logoColor=0A0209" /></a>
   <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Anmol_Codes" ></a>
   
 </div>
@@ -228,7 +241,11 @@
 <!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me here 
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me 
+
+> I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the [sponsors page](https://github.com/sponsors/Anmol-Baranwal) for further details.
+
+<br>
 
 <a href="https://github.com/sponsors/Anmol-Baranwal"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
 <a href="https://www.buymeacoffee.com/anmolbaranwal"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
