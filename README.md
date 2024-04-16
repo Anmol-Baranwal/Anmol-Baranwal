@@ -40,7 +40,7 @@
 
 🤝 &nbsp; I have learned a lot about the Open Source ecosystem during the past 2 years so I'm guiding others to start their journey with open source in multiple communities on Discord & WhatsApp.
 
-☑️ &nbsp; I create helpful tips on open source, share resources, and a lot more to help you grow "1% every day" on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and [Twitter](https://twitter.com/Anmol_Codes). Be sure to follow me there for daily insightful tips!
+🎁 &nbsp; I create helpful tips on open source, write about 2 open source projects daily, and a lot more to help you grow `"1% every day"` on [Twitter](https://twitter.com/Anmol_Codes) and [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/). Be sure to follow me there for daily insightful tips!
 
 🏆 &nbsp; I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and created content as a core team member (GSSoC'23 Team) for _200k_ audiences.
 
@@ -89,7 +89,7 @@
   
 </details>
 
-<br><br>
+<br>
 
 ## Latest Blog Posts  
 
@@ -214,6 +214,8 @@
 <br>
 
 <div align="center">
+  <a href="https://app.daily.dev/anmolbaranwal"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
+  <br>
   <a href="https://www.polywork.com/anmolbaranwal"><img src="https://img.shields.io/badge/polywork-0A0209?style=for-the-badge&logo=polywork&logoColor=d5d5d5" ></a>
   <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
   <br>
