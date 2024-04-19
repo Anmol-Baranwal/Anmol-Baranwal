@@ -163,7 +163,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 282k out of 135m users</span>
+                                    <span class="gh">ranked 282k out of 131m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">80</div>
                                     </div>
@@ -253,7 +253,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 20.8k out of 135m users</span>
+                                    <span class="gh">ranked 20.8k out of 131m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">392</div>
                                     </div>
@@ -389,7 +389,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.075 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="41.462500000000006 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -420,12 +420,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 59k out of 158m repositories</span>
+                                    <span class="gh">ranked 58.8k out of 204m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">206</div>
+                                        <div class="value">207</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 206 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 207 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -520,7 +520,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5462012320328578 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7583846680355926 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -582,7 +582,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 71.8k out of 158m repositories</span>
+                                    <span class="gh">ranked 71.8k out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">640</div>
                                     </div>
