@@ -96,12 +96,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get CMS in any Next app with one line](https://dev.to/anmolbaranwal/how-to-get-cms-in-any-next-app-with-one-line-2mjp)
 - [30+ AI projects you can build today](https://dev.to/copilotkit/30-ai-libraries-you-can-use-for-your-next-project-ideas-5ded)
 - [🌝 15 JavaScript frameworks for your next project ⚔](https://dev.to/winglang/15-javascript-frameworks-for-your-next-project-1o7n)
 - [🚀 21 Tools to take your dev skills to the moon 🌝](https://dev.to/taipy/21-tools-to-take-your-dev-skills-to-the-moon-53mf)
 - [30+ app ideas with complete source code](https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76)
 - [21 AI Tools that are changing the World](https://dev.to/taipy/21-ai-tools-that-are-changing-the-world-1o54)
-- [Build a Full-Stack app using these React libraries and cloud backend.](https://dev.to/winglang/build-a-full-stack-app-using-these-react-libraries-and-cloud-backend-2o4b)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
