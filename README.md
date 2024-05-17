@@ -96,12 +96,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
-- [20+ projects using AI with complete source code 🚀](https://dev.to/copilotkit/20-projects-you-can-build-with-ai-today-352k)
+- [😁12 things you didn&#39;t know you could do with DEV part 2](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-part-2-2i6m)
+- [20+ easy AI projects you could build today &lpar;LangChain, CopilotKit, more&rpar;](https://dev.to/copilotkit/20-projects-you-can-build-with-ai-today-352k)
 - [How to get CMS in any Next app with one line](https://dev.to/anmolbaranwal/how-to-get-cms-in-any-next-app-with-one-line-2mjp)
 - [29+ AI projects you can build today](https://dev.to/copilotkit/30-ai-libraries-you-can-use-for-your-next-project-ideas-5ded)
 - [🌝 15 JavaScript frameworks for your next project ⚔](https://dev.to/winglang/15-javascript-frameworks-for-your-next-project-1o7n)
 - [🚀 21 Tools to take your dev skills to the moon 🌝](https://dev.to/taipy/21-tools-to-take-your-dev-skills-to-the-moon-53mf)
-- [30+ app ideas with complete source code](https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
