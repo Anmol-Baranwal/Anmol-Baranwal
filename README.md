@@ -2,7 +2,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Banner GitHub – 4](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
@@ -30,9 +30,9 @@
 
 👋 Hi! I'm Anmol Baranwal, a full-stack developer from India, super into Open Source, and working as a Technical writer for international brands.
 
-🔥 I have worked with more than 8 international teams like [Taipy](https://github.com/Avaiga/taipy), [CopilotKit](https://github.com/CopilotKit/CopilotKit), [Wing](https://github.com/winglang/wing), reaching an audience of over _100k_. If you need a technical writer, DM me on Twitter or LinkedIn.
+🔥 I have worked with more than 8 international teams like [Taipy](https://github.com/Avaiga/taipy), [CopilotKit](https://github.com/CopilotKit/CopilotKit), [Wing](https://github.com/winglang/wing), reaching an audience of over _200k_. If you need a technical writer, DM me on Twitter or LinkedIn.
 
-🔖 &nbsp; As a top author on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal), my content has been featured in prestigious communities like GitHub, resulting in a follower base of over _10k+_ within 3 months.
+🔖 &nbsp; As a top author on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal), my content has been featured in prestigious communities like GitHub, resulting in a follower base of over _20k+_ within 6 months.
 
 🚀 &nbsp; I've established myself in the [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card) of GitHub by contributing to _40+_ projects with _200+_ Pull Requests, participating in _500+_ discussions, and earning a lot of reputation.
 
@@ -42,7 +42,7 @@
 
 🎁 &nbsp; I create helpful tips on open source, write about 2 open source projects daily, and a lot more to help you grow `"1% every day"` on [Twitter](https://twitter.com/Anmol_Codes) and [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/). Be sure to follow me there for daily insightful tips!
 
-🏆 &nbsp; I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and created content as a core team member (GSSoC'23 Team) for _200k_ audiences.
+🏆 &nbsp; I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and created content as a core team member (GSSoC'23 Team) for _200k+_ audiences.
 
 🎯 &nbsp; I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe). You can also check my [open source resource](https://www.producthunt.com/posts/awesome-illustrations-for-projects) on Product Hunt that received _50+_ upvotes.
 
@@ -114,6 +114,7 @@
 | <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/e8b8a468-6e59-4302-ade7-c717dadb3e90" alt="Make your portfolio in just 4 hours" width="700" /> | ✧ Featured in the Top 7 <br><br> [Make your portfolio in just 4 hours? It's possible](https://dev.to/anmolbaranwal/make-your-portfolio-in-just-4-hours-its-possible-2p3) |
 | <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/3d802c55-76b9-4638-b529-bb575ced5df4" alt="Shortcut to Find Open Source Projects 100x faster" width="700" /> | ✧ Featured in the Top 7 <br><br> ✧ Achieved over 20k views with 600+ reactions. <br><br> [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje) |
 | <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/cb7218b0-e1a9-4a3f-b897-704e8686826b" alt="12 things you didn't know you could do with DEV" width="700" /> | ✧ Featured in the Top 7 <br><br> [😁12 things you didn't know you could do with DEV](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-2041) |
+| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/f3b13dba-4639-4d93-b4fa-8a1de92cbea0" alt="30+ app ideas with complete source code" width="700" /> | ✧ Reached 40k+ Views <br><br> [30+ app ideas with complete source code](https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76) |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
