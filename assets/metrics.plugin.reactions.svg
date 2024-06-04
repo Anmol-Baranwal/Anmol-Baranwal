@@ -20,7 +20,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.63157894736842 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="37.19130434782609 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                     <span class="title nowrap">
@@ -31,18 +31,18 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="210.67543859649123 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="208.84347826086957 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                     <span class="title nowrap">
-                                        64
+                                        63
                                         <small>%</small>
                                     </span>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.771929824561403 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.721739130434782 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                     <span class="title nowrap">
@@ -63,7 +63,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.8859649122807016 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.860869565217391 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                     <span class="title nowrap">
@@ -74,7 +74,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.429824561403509 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.304347826086957 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                     <span class="title nowrap">
@@ -85,7 +85,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="37.51754385964912 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="37.19130434782609 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                     <span class="title nowrap">
@@ -96,7 +96,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.087719298245613 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="22.88695652173913 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                     <span class="title nowrap">
