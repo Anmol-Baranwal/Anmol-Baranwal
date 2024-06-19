@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [25 funded projects you can contribute in open source](https://dev.to/taipy/25-funded-projects-you-can-contribute-in-open-source-40lh)
 - [😁 Join my community of technical writers and open source developers](https://dev.to/anmolbaranwal/join-my-community-of-technical-writers-and-open-source-developers-46g5)
 - [17 Developer Tools that keep me productive](https://dev.to/taipy/17-developer-tools-that-keep-me-productive-37e2)
 - [List of 50+ organizations on DEV creating valuable content](https://dev.to/anmolbaranwal/list-of-50-organizations-on-dev-creating-valuable-content-2446)
 - [How to build an HTML to PDF app in 5 minutes](https://dev.to/anmolbaranwal/how-to-build-an-html-to-pdf-app-in-5-minutes-92e)
 - [25 projects that you can build with Python and AI](https://dev.to/taipy/25-projects-that-you-can-build-with-python-and-ai-12i9)
-- [😁12 things you didn&#39;t know you could do with DEV part 2](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-part-2-2i6m)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
