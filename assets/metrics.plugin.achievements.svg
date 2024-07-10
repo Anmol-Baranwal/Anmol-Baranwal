@@ -163,7 +163,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 261k out of 140m users</span>
+                                    <span class="gh">ranked 260k out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">85</div>
                                     </div>
@@ -206,7 +206,7 @@
                                 <div class="text">Starred 621 repositories</div>
                             </div>
                         </div>
-                        <div class="achievement b largeable-width-half">
+                        <div class="achievement a largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
                                     <defs>
@@ -216,49 +216,49 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="152.93333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.31 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <path d="M33.432 1.924A23.922 23.922 0 0024 0c-3.945 0-7.668.952-10.95 2.638m-9.86 9.398A23.89 23.89 0 000 24a23.9 23.9 0 002.274 10.21m3.45 5.347a23.992 23.992 0 0012.929 7.845m13.048-.664c4.43-1.5 8.28-4.258 11.123-7.848m3.16-5.245A23.918 23.918 0 0048 24c0-1.87-.214-3.691-.619-5.439M40.416 6.493a24.139 24.139 0 00-1.574-1.355" stroke="#B2A8FF" stroke-linecap="round"/>
-                                            <path stroke="#B2A8FF" d="M4.582 33.859l1.613-7.946"/>
-                                            <circle stroke="#B2A8FF" cx="6.832" cy="23" r="3"/>
-                                            <path stroke="#7D6CFF" d="M17.444 39.854l4.75 3.275"/>
-                                            <path stroke="#B2A8FF" stroke-linecap="round" d="M7.647 14.952l-.433 4.527"/>
-                                            <circle stroke="#7D6CFF" cx="15" cy="38" r="3"/>
-                                            <path stroke="#7D6CFF" d="M22.216 9.516l.455 4.342"/>
-                                            <path stroke="#B2A8FF" stroke-linecap="round" d="M34.272 6.952l-2.828 5.25"/>
-                                            <path stroke="#7D6CFF" stroke-linecap="square" d="M11.873 7.235l6.424-.736"/>
-                                            <path stroke="#B2A8FF" stroke-linecap="round" d="M28.811 5.445l3.718-.671"/>
-                                            <path stroke="#7D6CFF" d="M42.392 22.006l.456-5.763M34.349 24.426l4.374.447"/>
-                                            <path d="M20 28c.267-1.727 1.973-3 4-3 2.08 0 3.787 1.318 4 3m-4-9a3 3 0 110 6 3 3 0 010-6z" stroke="#7D6CFF" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M24 14c5.523 0 10 4.477 10 10s-4.477 10-10 10-10-4.477-10-10 4.477-10 10-10z" stroke="#7D6CFF" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <circle stroke="#B2A8FF" cx="35.832" cy="4" r="3"/>
-                                            <circle stroke="#B2A8FF" cx="44" cy="36" r="3"/>
-                                            <circle stroke="#B2A8FF" cx="34.832" cy="37" r="3"/>
-                                            <circle stroke="#7D6CFF" cx="21.654" cy="6.437" r="3"/>
-                                            <path d="M25.083 48.102a3 3 0 100-6 3 3 0 000 6z" stroke="#7D6CFF"/>
-                                            <path d="M8.832 5a3 3 0 110 6 3 3 0 010-6z" stroke="#7D6CFF" stroke-linecap="round"/>
-                                            <circle stroke="#B2A8FF" cx="4" cy="37" r="3"/>
-                                            <path d="M42.832 10a3 3 0 110 6 3 3 0 010-6z" stroke="#7D6CFF" stroke-linecap="round"/>
-                                            <path stroke="#B2A8FF" stroke-linecap="round" d="M32.313 38.851l-1.786 1.661"/>
-                                            <circle stroke="#7D6CFF" cx="42" cy="25" r="3"/>
-                                            <path stroke="#7D6CFF" stroke-linecap="square" d="M18.228 32.388l-1.562 2.66"/>
-                                            <path stroke="#B2A8FF" d="M37.831 36.739l2.951-.112"/>
+                                            <path d="M33.432 1.924A23.922 23.922 0 0024 0c-3.945 0-7.668.952-10.95 2.638m-9.86 9.398A23.89 23.89 0 000 24a23.9 23.9 0 002.274 10.21m3.45 5.347a23.992 23.992 0 0012.929 7.845m13.048-.664c4.43-1.5 8.28-4.258 11.123-7.848m3.16-5.245A23.918 23.918 0 0048 24c0-1.87-.214-3.691-.619-5.439M40.416 6.493a24.139 24.139 0 00-1.574-1.355" stroke="#FFD576" stroke-linecap="round"/>
+                                            <path stroke="#FFD576" d="M4.582 33.859l1.613-7.946"/>
+                                            <circle stroke="#FFD576" cx="6.832" cy="23" r="3"/>
+                                            <path stroke="#B59151" d="M17.444 39.854l4.75 3.275"/>
+                                            <path stroke="#FFD576" stroke-linecap="round" d="M7.647 14.952l-.433 4.527"/>
+                                            <circle stroke="#B59151" cx="15" cy="38" r="3"/>
+                                            <path stroke="#B59151" d="M22.216 9.516l.455 4.342"/>
+                                            <path stroke="#FFD576" stroke-linecap="round" d="M34.272 6.952l-2.828 5.25"/>
+                                            <path stroke="#B59151" stroke-linecap="square" d="M11.873 7.235l6.424-.736"/>
+                                            <path stroke="#FFD576" stroke-linecap="round" d="M28.811 5.445l3.718-.671"/>
+                                            <path stroke="#B59151" d="M42.392 22.006l.456-5.763M34.349 24.426l4.374.447"/>
+                                            <path d="M20 28c.267-1.727 1.973-3 4-3 2.08 0 3.787 1.318 4 3m-4-9a3 3 0 110 6 3 3 0 010-6z" stroke="#B59151" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M24 14c5.523 0 10 4.477 10 10s-4.477 10-10 10-10-4.477-10-10 4.477-10 10-10z" stroke="#B59151" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <circle stroke="#FFD576" cx="35.832" cy="4" r="3"/>
+                                            <circle stroke="#FFD576" cx="44" cy="36" r="3"/>
+                                            <circle stroke="#FFD576" cx="34.832" cy="37" r="3"/>
+                                            <circle stroke="#B59151" cx="21.654" cy="6.437" r="3"/>
+                                            <path d="M25.083 48.102a3 3 0 100-6 3 3 0 000 6z" stroke="#B59151"/>
+                                            <path d="M8.832 5a3 3 0 110 6 3 3 0 010-6z" stroke="#B59151" stroke-linecap="round"/>
+                                            <circle stroke="#FFD576" cx="4" cy="37" r="3"/>
+                                            <path d="M42.832 10a3 3 0 110 6 3 3 0 010-6z" stroke="#B59151" stroke-linecap="round"/>
+                                            <path stroke="#FFD576" stroke-linecap="round" d="M32.313 38.851l-1.786 1.661"/>
+                                            <circle stroke="#B59151" cx="42" cy="25" r="3"/>
+                                            <path stroke="#B59151" stroke-linecap="square" d="M18.228 32.388l-1.562 2.66"/>
+                                            <path stroke="#FFD576" d="M37.831 36.739l2.951-.112"/>
                                         </g>
                                     </svg>
                                 </svg>
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <span class="prefix">Great</span>
+                                    <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 16.4k out of 140m users</span>
+                                    <span class="gh">ranked 16.2k out of 140m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">496</div>
+                                        <div class="value">501</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 496 users</div>
+                                <div class="text">Followed by 501 users</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -309,7 +309,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.3375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.88749999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -340,12 +340,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 40.5k out of 212m repositories</span>
+                                    <span class="gh">ranked 40k out of 209m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">297</div>
+                                        <div class="value">301</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 297 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 301 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -559,7 +559,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.96996996996998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="115.28028028028028 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -582,12 +582,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 64.4k out of 212m repositories</span>
+                                    <span class="gh">ranked 64.2k out of 209m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">742</div>
+                                        <div class="value">744</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 742 stars</div>
+                                <div class="text">Maintaining a repository with 744 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
