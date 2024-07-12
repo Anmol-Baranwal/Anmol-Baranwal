@@ -181,7 +181,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.13 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.06 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -200,10 +200,10 @@
                                     <span class="prefix">Super</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">623</div>
+                                        <div class="value">626</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 623 repositories</div>
+                                <div class="text">Starred 626 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -340,7 +340,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 40k out of 209m repositories</span>
+                                    <span class="gh">ranked 40k out of 208m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">301</div>
                                     </div>
@@ -582,7 +582,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 63.6k out of 209m repositories</span>
+                                    <span class="gh">ranked 63.6k out of 208m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">752</div>
                                     </div>
