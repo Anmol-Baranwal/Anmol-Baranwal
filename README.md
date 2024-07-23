@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Python alternative to Power BI, Qlik &amp; Tableau](https://dev.to/taipy/the-python-alternative-to-power-bi-qlik-tableau-29p0)
 - [21 Open Source LLM Projects to Become 10x AI Developer](https://dev.to/latitude/21-open-source-llm-projects-to-become-10x-ai-developer-fe0)
 - [17 Libraries to Become a React Wizard 🧙‍♂️🔮✨](https://dev.to/copilotkit/17-libraries-to-become-a-react-wizard-1g6k)
 - [Pieces is the only AI tool you need to be a 10x developer🤯](https://dev.to/anmolbaranwal/pieces-is-the-only-ai-tool-you-need-to-be-a-10x-developer-13le)
 - [15 amazing things you can do with simple JavaScript 🤯](https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88)
 - [25 funded projects you can contribute in open source](https://dev.to/taipy/25-funded-projects-you-can-contribute-in-open-source-40lh)
-- [😁 Join my community of technical writers and open source developers](https://dev.to/anmolbaranwal/join-my-community-of-technical-writers-and-open-source-developers-46g5)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
