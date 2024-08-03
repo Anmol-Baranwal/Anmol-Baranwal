@@ -216,7 +216,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.469999999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.78 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -255,10 +255,10 @@
                                     influencer
                                     <span class="gh">ranked 15.2k out of 141m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">537</div>
+                                        <div class="value">538</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 537 users</div>
+                                <div class="text">Followed by 538 users</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -309,7 +309,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="85.6375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -340,12 +340,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 37.5k out of 213m repositories</span>
+                                    <span class="gh">ranked 37.4k out of 214m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">321</div>
+                                        <div class="value">322</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 321 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 322 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -520,7 +520,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.516769336071185 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.728952772073921 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -559,7 +559,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="133.74374374374375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="133.8988988988989 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -582,12 +582,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 56.2k out of 213m repositories</span>
+                                    <span class="gh">ranked 56.1k out of 214m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">863</div>
+                                        <div class="value">864</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 863 stars</div>
+                                <div class="text">Maintaining a repository with 864 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
