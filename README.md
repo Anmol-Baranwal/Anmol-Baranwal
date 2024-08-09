@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Make your App 10x Secure with Arcjet Protection Layer](https://dev.to/anmolbaranwal/make-your-app-10x-secure-with-arcjet-protection-layer-20fj)
 - [17 Iconic Projects to Build Up Your Portfolio 💼 🚀🦾](https://dev.to/copilotkit/17-iconic-projects-for-your-portfolio-5e5e)
 - [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0)
 - [17 Most Powerful AI Tools for Developers](https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n)
 - [The Python alternative to Power BI, Qlik &amp; Tableau](https://dev.to/taipy/the-python-alternative-to-power-bi-qlik-tableau-29p0)
 - [21 Open Source LLM Projects to Become 10x AI Developer](https://dev.to/latitude/21-open-source-llm-projects-to-become-10x-ai-developer-fe0)
-- [17 Libraries to Become a React Wizard 🧙‍♂️🔮✨](https://dev.to/copilotkit/17-libraries-to-become-a-react-wizard-1g6k)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
