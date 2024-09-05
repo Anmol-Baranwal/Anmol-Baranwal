@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Frontend Apps 10x Faster](https://dev.to/requestly/how-to-build-frontend-apps-10x-faster-36ib)
 - [How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡](https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac)
 - [Make your App 10x Secure with Arcjet Protection Layer](https://dev.to/anmolbaranwal/make-your-app-10x-secure-with-arcjet-protection-layer-20fj)
 - [17 Iconic Projects to Build Up Your Portfolio 💼 🚀🦾](https://dev.to/copilotkit/17-iconic-projects-for-your-portfolio-5e5e)
 - [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0)
 - [17 Most Powerful AI Tools for Developers](https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n)
-- [The Python alternative to Power BI, Qlik &amp; Tableau](https://dev.to/taipy/the-python-alternative-to-power-bi-qlik-tableau-29p0)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
