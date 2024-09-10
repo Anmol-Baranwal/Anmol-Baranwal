@@ -30,11 +30,11 @@
 
 👋 Hi! I'm Anmol Baranwal, a full-stack developer from India, super into Open Source, and working as a Technical writer for international brands.
 
-🔥 I have worked with more than 8 international teams like [Taipy](https://github.com/Avaiga/taipy), [CopilotKit](https://github.com/CopilotKit/CopilotKit), [Wing](https://github.com/winglang/wing), [Latitude](https://github.com/latitude-dev/latitude), reaching an audience of over _350k_. If you need a technical writer, DM me on Twitter or LinkedIn.
+🔥 I have worked with more than 8 international teams like [Taipy](https://github.com/Avaiga/taipy), [CopilotKit](https://github.com/CopilotKit/CopilotKit), [Requestly](https://github.com/requestly/requestly), [Latitude](https://github.com/latitude-dev/latitude), reaching an audience of over _500k_. If you need a technical writer, DM me on Twitter or LinkedIn.
 
 📈 &nbsp; I'm also building my community for open source developers and technical writers at [dub.sh/opensouls](https://dub.sh/opensouls).
 
-🔖 &nbsp; As a top author on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal), my content has been featured in prestigious communities like GitHub, resulting in a follower base of over _30k+_ within 6 months.
+🔖 &nbsp; As a top author on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal), my content has been featured in prestigious communities like GitHub, resulting in a follower base of over _35k+_ within 8 months.
 
 🚀 &nbsp; I've established myself in the [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card) of GitHub by contributing to _40+_ projects with _200+_ Pull Requests, participating in _500+_ discussions, and earning a lot of reputation.
 
