@@ -216,7 +216,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.939999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.87 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -253,12 +253,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 14.3k out of 144m users</span>
+                                    <span class="gh">ranked 14.2k out of 144m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">574</div>
+                                        <div class="value">577</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 574 users</div>
+                                <div class="text">Followed by 577 users</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -271,7 +271,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.82499999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="111.2125 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -302,12 +302,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 31k out of 191m repositories</span>
+                                    <span class="gh">ranked 30.9k out of 215m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">386</div>
+                                        <div class="value">387</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 386 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 387 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -582,7 +582,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 50.1k out of 191m repositories</span>
+                                    <span class="gh">ranked 50.1k out of 215m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">986</div>
                                     </div>
