@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Mock GraphQL API Responses 10x Faster](https://dev.to/requestly/how-to-mock-graphql-api-responses-10x-faster-3bgm)
 - [21 React Projects Too Awesome to Ignore](https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec)
 - [How to Do Software Testing 10x Faster](https://dev.to/anmolbaranwal/how-to-do-software-testing-10x-faster-3cah)
 - [17 LLM Tools That Almost Broke The Internet ⚡](https://dev.to/latitude/17-llm-tools-that-went-viral-after-launch-4gim)
 - [21 Developer Tools to Improve Your Daily Life as Developer ⚡🎁](https://dev.to/taipy/21-developer-tools-to-improve-your-daily-life-as-developer-4m4e)
 - [How to Build Frontend Apps 10x Faster](https://dev.to/requestly/how-to-build-frontend-apps-10x-faster-36ib)
-- [How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡](https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
