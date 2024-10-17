@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [17 Projects for Teams to Build AI Features 100x Faster](https://dev.to/latitude/17-projects-for-teams-to-build-ai-features-100x-faster-nbn)
+- [17 Must-know React Projects for Developers 👩‍💻 🔥](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2)
 - [11 Best AI Chat Tools for Developers in 2024](https://dev.to/anmolbaranwal/11-best-ai-chat-tools-for-developers-in-2024-4gpl)
 - [🎯 Case Study: How AutoKey is Exploring Opire to Attract Python Developers](https://dev.to/opire/case-study-how-autokey-is-exploring-opire-to-attract-python-developers-b8g)
 - [How to Mock GraphQL API Responses 10x Faster](https://dev.to/requestly/how-to-mock-graphql-api-responses-10x-faster-3bgm)
 - [21 React Projects Too Awesome to Ignore](https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec)
-- [How to Do Software Testing 10x Faster](https://dev.to/anmolbaranwal/how-to-do-software-testing-10x-faster-3cah)
-- [17 LLM Tools That Almost Broke The Internet ⚡](https://dev.to/latitude/17-llm-tools-that-went-viral-after-launch-4gim)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
