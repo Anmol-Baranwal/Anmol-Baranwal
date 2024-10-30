@@ -28,11 +28,13 @@
 
 <i>&nbsp; Building solutions with open source.</i> <br><br>
 
-👋 Hi! I'm Anmol Baranwal, a full-stack developer from India, super into Open Source, and working as a Technical writer for international brands.
+👋 Hi! I'm Anmol Baranwal, a full-stack developer from India, super into Open Source and working as a Technical writer for international brands.
 
-🔥 I have worked with more than 8 international teams like [Taipy](https://github.com/Avaiga/taipy), [CopilotKit](https://github.com/CopilotKit/CopilotKit), [Requestly](https://github.com/requestly/requestly), [Latitude](https://github.com/latitude-dev/latitude), reaching an audience of over _500k_. If you need a technical writer, DM me on Twitter or LinkedIn.
+🔥 I have collaborated with companies valued at over $10M and startups trusted by Fortune 500 companies in my journey. 
 
-📈 &nbsp; I'm also building my community for open source developers and technical writers at [dub.sh/opensouls](https://dub.sh/opensouls).
+✍ Working with 6+ international teams like [CopilotKit](https://github.com/CopilotKit/CopilotKit), [Requestly](https://github.com/requestly/requestly), [Latitude](https://github.com/latitude-dev/latitude) and reached more than _500k_ audience as a Technical Writer. If you need a technical writer, just send an email to `hi@anmolbaranwal.com` or DM me on socials.
+
+📈 &nbsp; I'm also building my discord community (200+ members) for open source developers and technical writers at [dub.sh/opensouls](https://dub.sh/opensouls).
 
 🔖 &nbsp; As a top author on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal), my content has been featured in prestigious communities like GitHub, resulting in a follower base of over _35k+_ within 8 months.
 
@@ -40,13 +42,11 @@
 
 🎓 &nbsp; A 100% scholar in CS, I've played a crucial role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into an open source success story. 
 
-🤝 &nbsp; I have learned a lot about the Open Source ecosystem during the past 2 years so I'm guiding others to start their journey with open source in multiple communities on Discord & WhatsApp.
+🎁 &nbsp; I share awesome resources and a lot more to help you grow `"1% every day"` on [Twitter](https://twitter.com/Anmol_Codes) and [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/).
 
-🎁 &nbsp; I create helpful tips on open source, write about 2 open source projects daily, and a lot more to help you grow `"1% every day"` on [Twitter](https://twitter.com/Anmol_Codes) and [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/). Be sure to follow me there for daily insightful tips!
+🏆 &nbsp; I secured 11th Rank in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and created content as a core team member (GSSoC'23 Team) for _200k+_ audiences.
 
-🏆 &nbsp; I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and created content as a core team member (GSSoC'23 Team) for _200k+_ audiences.
-
-🎯 &nbsp; I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe). You can also check my [open source resource](https://www.producthunt.com/posts/awesome-illustrations-for-projects) on Product Hunt that received _50+_ upvotes.
+🎯 &nbsp; I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe).
 
 😄 &nbsp; Besides that, I participate in hackathons (won 7+ competitions), make side projects, brainstorm ideas, and keep learning new stuff :)
   
