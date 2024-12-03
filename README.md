@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best Open Source API Mocking Tool for developers &lpar;With examples&rpar;](https://dev.to/requestly/the-best-open-source-api-mocking-tool-for-developers-with-examples-35hh)
 - [If you&#39;re a beginner, definitely check this open source guide. I&#39;ve explained almost everything you need to know.](https://dev.to/anmolbaranwal/if-youre-a-beginner-definitely-check-this-open-source-guide-ive-explained-almost-everything-you-498a)
 - [10 Best Developer Tools to Make Backend Development Easier 👩‍💻 🚀](https://dev.to/encore/10-best-developer-tools-to-make-backend-development-easier-12me)
 - [11 Practical Ways to Bring Side Income as a Developer 💰](https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm)
 - [13 Projects You Don&#39;t Want to Pass Up to Win Cool Hacktoberfest Swag 🎁🎃](https://dev.to/copilotkit/13-projects-you-dont-want-to-pass-up-to-win-cool-hacktoberfest-swag-4dc9)
 - [17 Projects for Developers to Build AI Features 100x Faster 👩‍💻🔥](https://dev.to/latitude/17-projects-for-teams-to-build-ai-features-100x-faster-nbn)
-- [17 Must-know React Projects for Developers 👩‍💻 🔥](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
