@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Tech Stack for Building AI Apps in 2025](https://dev.to/copilotkit/the-tech-stack-for-building-ai-apps-in-2025-12l9)
 - [7 steps to building scalable Backend from scratch](https://dev.to/anmolbaranwal/7-steps-to-building-scalable-backend-from-scratch-fp8)
 - [7 practical ways to build Backends much faster as a developer](https://dev.to/anmolbaranwal/7-practical-ways-to-build-backends-much-faster-as-a-developer-g6c)
 - [This API Client is More Secure and Better Than Postman](https://dev.to/anmolbaranwal/this-api-client-is-more-secure-and-better-than-postman-4144)
 - [These 7 AI Tools Helped Me Write Better Code in 2024](https://dev.to/anmolbaranwal/these-7-ai-tools-helped-me-write-better-code-in-2024-5bdj)
 - [The Best Open Source API Mocking Tool for developers &lpar;With examples&rpar;](https://dev.to/requestly/the-best-open-source-api-mocking-tool-for-developers-with-examples-35hh)
-- [10 Best Developer Tools to Make Backend Development Easier 👩‍💻 🚀](https://dev.to/encore/10-best-developer-tools-to-make-backend-development-easier-12me)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
