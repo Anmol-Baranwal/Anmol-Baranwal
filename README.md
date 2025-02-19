@@ -98,12 +98,12 @@
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Agents 101: How to build your first AI Agent in 30 minutes!](https://dev.to/copilotkit/agents-101-how-to-build-your-first-ai-agent-in-30-minutes-1042)
 - [Best Chrome extensions for API development &amp; testing in 2025](https://dev.to/anmolbaranwal/best-chrome-extensions-for-api-development-testing-in-2025-4f27)
 - [The perfect Stack for building type-safe applications in 2025](https://dev.to/anmolbaranwal/the-perfect-stack-for-building-type-safe-applications-in-2025-k62)
 - [Yay! I created my first Portfolio! 🎉](https://dev.to/anmolbaranwal/yay-i-created-my-first-portfolio-375)
 - [The Tech Stack for Building AI Apps in 2025](https://dev.to/copilotkit/the-tech-stack-for-building-ai-apps-in-2025-12l9)
 - [7 steps to building scalable Backend from scratch](https://dev.to/anmolbaranwal/7-steps-to-building-scalable-backend-from-scratch-fp8)
-- [7 practical ways to build Backends much faster as a developer](https://dev.to/anmolbaranwal/7-practical-ways-to-build-backends-much-faster-as-a-developer-g6c)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
