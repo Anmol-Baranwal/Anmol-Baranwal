@@ -109,12 +109,12 @@ I code for fun and keep learning new stuff :)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to connect Cursor to 100+ MCP Servers within minutes](https://dev.to/composiodev/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74)
+- [How to Get Headless CMS in Next.js with One Line](https://dev.to/anmolbaranwal/how-to-get-headless-cms-in-nextjs-with-one-line-44mf)
 - [10 common backend tasks and how to automate them](https://dev.to/anmolbaranwal/10-common-backend-tasks-and-how-to-automate-them-4c79)
 - [How I went from 0 to 1M views on Devto: 10 tips and lessons! 🎉](https://dev.to/anmolbaranwal/how-i-went-from-0-to-1m-views-on-devto-10-tips-and-lessons-3o0b)
 - [10 Best QA tools that make debugging and bug reporting easier](https://dev.to/anmolbaranwal/10-best-qa-tools-that-make-debugging-and-bug-reporting-easier-3i8a)
 - [11 practical tips to make code reviews easier as a developer](https://dev.to/anmolbaranwal/11-practical-tips-to-make-code-reviews-easier-as-a-developer-16kc)
-- [Agents 101: How to build your first AI Agent in 30 minutes!⚡️](https://dev.to/copilotkit/agents-101-how-to-build-your-first-ai-agent-in-30-minutes-1042)
-- [Best Chrome extensions for API development &amp; testing in 2025](https://dev.to/anmolbaranwal/best-chrome-extensions-for-api-development-testing-in-2025-4f27)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
