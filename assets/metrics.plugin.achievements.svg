@@ -236,7 +236,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.51 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.82000000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -255,10 +255,10 @@
                                     <span class="prefix">Super</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">821</div>
+                                        <div class="value">822</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 821 repositories</div>
+                                <div class="text">Starred 822 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -302,7 +302,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 20.8k out of 241m repositories</span>
+                                    <span class="gh">ranked 20.8k out of 232m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">572</div>
                                     </div>
@@ -320,7 +320,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.08333333333331 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.6 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -342,10 +342,10 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">475</div>
+                                        <div class="value">476</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 475 times</div>
+                                <div class="text">Repositories have been deployed 476 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -538,7 +538,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 41.5k out of 241m repositories</span>
+                                    <span class="gh">ranked 41.5k out of 232m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1313</div>
                                     </div>
