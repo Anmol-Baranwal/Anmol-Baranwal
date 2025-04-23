@@ -109,12 +109,12 @@ I code for fun and keep learning new stuff :)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The guide to MCP I never had.](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
 - [30+ MCP Ideas with Complete Source Code](https://dev.to/copilotkit/30-mcp-ideas-with-complete-source-code-d8e)
 - [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
 - [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar; 🚀 🤖](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
 - [How to connect Cursor to 100+ MCP Servers within minutes](https://dev.to/composiodev/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74)
 - [How to Get Headless CMS in Next.js with One Line](https://dev.to/anmolbaranwal/how-to-get-headless-cms-in-nextjs-with-one-line-44mf)
-- [10 common backend tasks and how to automate them](https://dev.to/anmolbaranwal/10-common-backend-tasks-and-how-to-automate-them-4c79)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
