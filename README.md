@@ -109,7 +109,7 @@ I code for fun and keep learning new stuff :)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Add MCP to Any React App in Under 10 Minutes](https://dev.to/copilotkit/add-an-mcp-client-to-any-react-app-in-under-30-minutes-55gm)
+- [Turn Any React App into an MCP Client in Under 10 Minutes](https://dev.to/copilotkit/add-an-mcp-client-to-any-react-app-in-under-30-minutes-55gm)
 - [The guide to MCP I never had.](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
 - [30+ MCP Ideas with Complete Source Code](https://dev.to/copilotkit/30-mcp-ideas-with-complete-source-code-d8e)
 - [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
