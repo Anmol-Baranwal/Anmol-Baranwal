@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anmolbaranwal" /></a>
 <a href="http://anmolbaranwal.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
+<a href="https://medium.com/@anmolbaranwal"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of anmol baranwal" /></a>
 <a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
   <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
 </div>
