@@ -110,12 +110,12 @@ I code for fun and keep learning new stuff :)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best Resources for Getting Started with Agents in 2025](https://dev.to/copilotkit/ai-agent-protocols-every-developer-should-know-in-2025-39m3)
 - [Thesys React SDK: Turn LLM Responses into real time User Interfaces](https://dev.to/anmolbaranwal/thesys-react-sdk-turn-llm-responses-into-real-time-user-interfaces-30d5)
 - [I built and deployed a Voice AI Agent in 30 minutes! 🎉](https://dev.to/anmolbaranwal/i-built-and-deployed-a-voice-ai-agent-in-30-minutes-hpa)
 - [MCP 2025-06-18 Spec Update: Security, Structured Output &amp; Elicitation](https://dev.to/forgecode/mcp-2025-06-18-spec-update-security-structured-output-elicitation-1pin)
 - [How to sync Context across AI Assistants &lpar;ChatGPT, Claude, Perplexity...&rpar; in your browser](https://dev.to/anmolbaranwal/how-to-sync-context-across-ai-assistants-chatgpt-claude-perplexity-in-your-browser-2k9l)
 - [The complete guide to building MCP Agents](https://dev.to/composiodev/the-complete-guide-to-building-mcp-agents-543m)
-- [How to make your clients more context-aware with OpenMemory MCP](https://dev.to/anmolbaranwal/how-to-make-your-clients-more-context-aware-with-openmemory-mcp-4h71)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
