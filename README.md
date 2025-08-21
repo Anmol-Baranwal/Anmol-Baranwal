@@ -110,12 +110,12 @@ I code for fun and keep learning new stuff :)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Document Parsing using GPT-4o API vs Claude Sonnet 3.5 API vs Invofox API &lpar;with Code Samples&rpar;](https://dev.to/anmolbaranwal/document-parsing-using-gpt-4o-api-vs-claude-sonnet-35-api-vs-invofox-api-with-code-samples-56h2)
 - [MCP Vulnerabilities Every Developer Should Know](https://dev.to/composiodev/mcp-vulnerabilities-every-developer-should-know-6f9)
 - [The Best Resources for Getting Started with Agents in 2025](https://dev.to/copilotkit/ai-agent-protocols-every-developer-should-know-in-2025-39m3)
 - [Thesys React SDK: Turn LLM Responses into real time User Interfaces](https://dev.to/anmolbaranwal/thesys-react-sdk-turn-llm-responses-into-real-time-user-interfaces-30d5)
 - [I built and deployed a Voice AI Agent in 30 minutes! 🎉](https://dev.to/anmolbaranwal/i-built-and-deployed-a-voice-ai-agent-in-30-minutes-hpa)
 - [MCP 2025-06-18 Spec Update: Security, Structured Output &amp; Elicitation](https://dev.to/forgecode/mcp-2025-06-18-spec-update-security-structured-output-elicitation-1pin)
-- [How to sync Context across AI Assistants &lpar;ChatGPT, Claude, Perplexity...&rpar; in your browser](https://dev.to/anmolbaranwal/how-to-sync-context-across-ai-assistants-chatgpt-claude-perplexity-in-your-browser-2k9l)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
