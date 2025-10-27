@@ -110,12 +110,12 @@ I code for fun and keep learning new stuff :)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [11 problems I have noticed building Agents &lpar;and fixes nobody talks about&rpar;](https://dev.to/composiodev/11-problems-i-have-noticed-building-agents-and-fixes-nobody-talks-about-5dcm)
 - [11 Powerful APIs for Your Next Project 🤯](https://dev.to/anmolbaranwal/11-powerful-apis-for-your-next-project-5d7d)
 - [Here&#39;s How To Build Fullstack Agent Apps &lpar;Gemini, CopilotKit &amp; LangGraph&rpar;](https://dev.to/copilotkit/heres-how-to-build-fullstack-agent-apps-gemini-copilotkit-langgraph-15jb)
 - [Top 11 Document Parsing AI Tools for developers in 2025](https://dev.to/anmolbaranwal/top-11-document-parsing-ai-tools-for-developers-in-2025-4m6a)
 - [Document Parsing using GPT-4o API vs Claude Sonnet 3.5 API vs Invofox API &lpar;with Code Samples&rpar;](https://dev.to/anmolbaranwal/document-parsing-using-gpt-4o-api-vs-claude-sonnet-35-api-vs-invofox-api-with-code-samples-56h2)
 - [MCP Vulnerabilities Every Developer Should Know](https://dev.to/composiodev/mcp-vulnerabilities-every-developer-should-know-6f9)
-- [The Best Resources for Getting Started with Agents in 2025](https://dev.to/copilotkit/ai-agent-protocols-every-developer-should-know-in-2025-39m3)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
