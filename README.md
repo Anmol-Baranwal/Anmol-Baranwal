@@ -110,12 +110,12 @@ I code for fun and keep learning new stuff :)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Developer&#39;s Guide to Generative UI in 2026](https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3)
 - [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
 - [How to build a Frontend for LangChain Deep Agents with CopilotKit!](https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd)
 - [How Rube MCP Solves Context Overload When Using Hundreds of MCP Servers](https://dev.to/composiodev/how-rube-mcp-solves-context-overload-when-using-hundreds-of-mcp-servers-2l9e)
 - [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
 - [11 problems I have noticed building Agents &lpar;and fixes nobody talks about&rpar;](https://dev.to/composiodev/11-problems-i-have-noticed-building-agents-and-fixes-nobody-talks-about-5dcm)
-- [11 Powerful APIs for Your Next Project 🤯](https://dev.to/anmolbaranwal/11-powerful-apis-for-your-next-project-5d7d)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
