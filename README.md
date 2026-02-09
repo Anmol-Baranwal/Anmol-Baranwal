@@ -98,7 +98,6 @@ Hands-on tutorial on how to build a job search assistant using Deep Agents (Lang
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to Build a LangGraph Research Agent that Embeds Dynamic Charts via MCP Apps &lpar;CopilotKit &amp; Tako&rpar;](https://dev.to/copilotkit/how-to-build-a-langgraph-research-agent-that-embeds-dynamic-charts-via-mcp-apps-copilotkit-tako-3ihi)
 - [The Developer&#39;s Guide to Generative UI in 2026](https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3)
 - [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
