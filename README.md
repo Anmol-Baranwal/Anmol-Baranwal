@@ -98,12 +98,12 @@ Hands-on tutorial on how to build a job search assistant using Deep Agents (Lang
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Research Assistant using Deep Agents](https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg)
 - [How to Build a LangGraph Research Agent that Embeds Dynamic Charts via MCP Apps &lpar;CopilotKit &amp; Tako&rpar;](https://dev.to/copilotkit/how-to-build-a-langgraph-research-agent-that-embeds-dynamic-charts-via-mcp-apps-copilotkit-tako-3ihi)
 - [The Developer&#39;s Guide to Generative UI in 2026](https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3)
 - [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
 - [How to build a Frontend for LangChain Deep Agents with CopilotKit!](https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd)
 - [How Rube MCP Solves Context Overload When Using Hundreds of MCP Servers](https://dev.to/composiodev/how-rube-mcp-solves-context-overload-when-using-hundreds-of-mcp-servers-2l9e)
-- [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
