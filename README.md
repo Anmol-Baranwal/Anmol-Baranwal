@@ -98,12 +98,12 @@ Hands-on tutorial on how to build a job search assistant using Deep Agents (Lang
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps for Codebases: Paste a GitHub URL, Ask Anything](https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8)
 - [Deploying AG-UI Agents to Production with Amazon Bedrock AgentCore](https://dev.to/copilotkit/deploying-ag-ui-agents-to-production-with-amazon-bedrock-agentcore-3ok0)
 - [How to add AI to your App in 5 minutes](https://dev.to/copilotkit/how-to-add-ai-to-your-app-in-5-minutes-2b0d)
 - [Give Your AG2 Agents a UI with AG‑UI and CopilotKit](https://dev.to/copilotkit/give-your-ag2-agents-a-ui-with-ag-ui-and-copilotkit-3kl5)
 - [How to Build a Research Assistant using Deep Agents](https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg)
 - [How to Build a LangGraph Research Agent that Embeds Dynamic Charts via MCP Apps &lpar;CopilotKit &amp; Tako&rpar;](https://dev.to/copilotkit/how-to-build-a-langgraph-research-agent-that-embeds-dynamic-charts-via-mcp-apps-copilotkit-tako-3ihi)
-- [The Developer&#39;s Guide to Generative UI in 2026](https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
