@@ -98,12 +98,12 @@ Hands-on tutorial on how to build a job search assistant using Deep Agents (Lang
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [aimock: Deterministic Mock Infra for AI Apps](https://dev.to/copilotkit/aimock-deterministic-mock-infra-for-ai-apps-2k3c)
 - [Channels SDK: How to bring your Agent to any Channel &lpar;Slack, Microsoft Teams&rpar;](https://dev.to/copilotkit/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof)
 - [Introducing Angular support for CopilotKit: bring any Agent into your app](https://dev.to/copilotkit/introducing-angular-support-for-copilotkit-bring-any-agent-into-your-app-2f3e)
 - [Open Source Toolkit for Building AI Agents in 2026](https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1)
 - [Chat to build and schedule your own personal Hacker News email digest! 🎉](https://dev.to/anmolbaranwal/chat-to-build-and-schedule-your-own-personal-hacker-news-email-digest-42a4)
 - [Generative UI Project Ideas with Complete Source Code](https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp)
-- [AIMock: One Mock Server For Your Entire AI Stack](https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
